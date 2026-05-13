@@ -3,6 +3,7 @@ package db
 import (
 	"database/sql"
 	"log"
+	"time"
 
 	_ "github.com/lib/pq"
 	_ "github.com/mattn/go-sqlite3"
@@ -22,8 +23,17 @@ func Connect(dbType string, dsn string) {
 	if err != nil {
 		log.Fatalf("db açılmadı: %v", err)
 	}
-	if err = DB.Ping(); err != nil {
-		log.Fatalf("db ye ulaşılamıyor: %v", err)
+
+	const maxAttempts = 10
+	for attempt := 1; attempt <= maxAttempts; attempt++ {
+		if err = DB.Ping(); err == nil {
+			break
+		}
+		if attempt == maxAttempts {
+			log.Fatalf("db ye ulaşılamıyor: %v", err)
+		}
+		log.Printf("db hazır değil (deneme %d/%d): %v", attempt, maxAttempts, err)
+		time.Sleep(time.Second)
 	}
 
 	log.Printf("Veritabanı bağlandı. Yüklendi (%s)\n", dbType)
@@ -98,8 +108,8 @@ func GetHistory(phone string, limit int) ([]map[string]string, error) {
 			return nil, err
 		}
 		messages = append(messages, map[string]string{
-			"role":		role,
-			"content":	content,
+			"role":    role,
+			"content": content,
 		})
 	}
 

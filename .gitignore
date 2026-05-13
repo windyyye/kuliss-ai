@@ -29,3 +29,7 @@ node_modules/
 frontend/dist/
 cmd/gui/frontend/
 *.sh
+
+# AI
+.omx
+.omc

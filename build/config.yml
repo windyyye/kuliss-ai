@@ -51,6 +51,8 @@ dev_mode:
       - "*.ts" # The frontend directory will be excluded entirely by the setting above.
     git_ignore: true
   executes:
+    - cmd: /home/ryu/go/bin/wails3 task common:dev:frontend
+      type: background
     - cmd: go run cmd/gui/main.go
       type: primary
 

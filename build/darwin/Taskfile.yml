@@ -223,7 +223,7 @@ tasks:
       - ln -sf /Applications "{{.BIN_DIR}}/dmg_staging/Applications" || true
       - hdiutil create -volname "{{.APP_NAME}}" -srcfolder "{{.BIN_DIR}}/dmg_staging" -ov -format UDZO -imagekey zlib-level=9 "{{.BIN_DIR}}/{{.APP_NAME}}.dmg"
       - rm -rf "{{.BIN_DIR}}/dmg_staging"
-      - echo "✅ DMG oluşturuldu: {{.BIN_DIR}}/{{.APP_NAME}}.dmg"
+      - 'echo "✅ DMG oluşturuldu: {{.BIN_DIR}}/{{.APP_NAME}}.dmg"'
 
   dmg:notarize:
     summary: Notarizes the DMG file and staples the ticket
