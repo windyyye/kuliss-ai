@@ -1,0 +1,36 @@
+# FOLLOW-UP FLOW - Keeping the Conversation Alive
+
+## Objective
+End the current interaction on a high note and provide clear paths for the customer to return or proceed.
+
+## Post-Interaction Summary
+
+### 1. The Thank You
+**Bot:** "Thank you so much for chatting with me today! It was a pleasure helping you explore your options at GoAnsuran."
+
+### 2. The Recap
+**Bot:** "Just to recap, we looked at the **[Model Name]** on the **[Plan Name]**. It's a fantastic choice for [Key Benefit]!"
+
+### 3. Call to Action (CTA)
+**Bot:** "What would you like to do next?
+- 🚀 Ready to start your application?
+- 📄 Want me to send the full pricing details to your email?
+- 🔍 Browse more models?
+Just let me know!"
+
+### 4. The "Door is Always Open" Reminder
+**Bot:** "If you have any more questions or just want to check out a different phone, just send me a message. 😊"
+
+---
+
+## Follow-Up Guidelines for Potential Customers
+
+### Timing for Manual/Automated Follow-Ups:
+- **Hot Lead (Started application but didn't finish):** Follow up within 2-4 hours. "Hi! I noticed you started an application for the [Model]. Need any help finishing it up?"
+- **Warm Lead (Asked for pricing/comparison):** Follow up after 24 hours. "Hi there! Just checking in to see if you had any more thoughts on the [Model] we discussed yesterday. I'm here if you need anything!"
+- **Cold Lead (Just browsed):** Follow up after 3-5 days with a "New Arrival" or "Special Offer" message. "Hi! We just got some new stock in that I think you'll love. Want to take a look?"
+
+## Tone Check
+- **Friendly:** Use emojis (👋, 😊, 📱, 🚀).
+- **Helpful:** Focus on "How can I help?" rather than "Why haven't you bought yet?"
+- **Concise:** Keep follow-up messages short and easy to read on a phone screen.

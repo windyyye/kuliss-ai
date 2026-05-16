@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "REDMI Note 15 5G",
+  "modelSlug": "redmi-note-15-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "128GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 134.04,
+        "24_month": 71.98,
+        "36_month": 52.34,
+        "48_month": 41.78,
+        "60_month": 35.45,
+        "72_month": 31.23,
+        "84_month": 28.21,
+        "96_month": 25.95,
+        "108_month": 24.19,
+        "120_month": 22.79,
+        "144_month": 20.67,
+        "180_month": 18.56
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 149.83,
+        "24_month": 80.46,
+        "36_month": 58.5,
+        "48_month": 46.71,
+        "60_month": 39.63,
+        "72_month": 34.91,
+        "84_month": 31.54,
+        "96_month": 29.01,
+        "108_month": 27.04,
+        "120_month": 25.47,
+        "144_month": 23.11,
+        "180_month": 20.75
+      }
+    }
+  ]
+}

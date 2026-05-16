@@ -1,0 +1,39 @@
+GoFlexi Pricing Guide
+
+GoFlexi is designed with simplicity and transparency in mind, offering a straightforward pricing structure that makes premium gadgets accessible without the complexity often found in traditional financing or other subscription models.
+
+Simple Pricing Structure:
+Unlike the complex matrices used in other plans like GoAngkasa, GoFlexi pricing consists of only two primary components:
+1. Deposit: The upfront payment required to start your subscription. This can be as low as RM 0.00, depending on the specific device and the user's profile.
+2. Monthly Subscription Amount: A fixed monthly fee that you pay throughout the duration of your subscription.
+
+Key Features:
+- No Complex Tenure Matrix: There are no confusing tables to navigate. Each device variant has a clear, fixed price.
+- Pricing per Variant: Pricing is determined at the product variant level. This means you can choose your preferred storage capacity or specific model and see the exact deposit and monthly amount immediately.
+
+Data Structure:
+For developers and system integrators, each model's pricing is represented in a clean JSON structure within its respective file:
+{
+  "model": "...",
+  "brand": "...",
+  "variants": [
+    {
+      "id": N,
+      "title": "...",
+      "deposit": {
+        "value": N,
+        "formatted": "RM ..."
+      },
+      "amount": {
+        "value": N,
+        "formatted": "RM ..."
+      },
+      "image": {
+        "original": "...",
+        "medium": "..."
+      }
+    }
+  ]
+}
+
+This structure allows for multiple variants (e.g., 128GB vs 256GB) to be listed under a single model, each with its own specific pricing details.

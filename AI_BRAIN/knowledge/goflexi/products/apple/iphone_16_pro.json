@@ -1,0 +1,154 @@
+{
+  "model": "iPhone 16 Pro",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "QQBtwpJMXGT",
+      "title": "iPhone 16 Pro 128GB",
+      "deposit": {
+        "value": 899,
+        "formatted": "899.00",
+        "text": "RM 899.00"
+      },
+      "amount": {
+        "value": 217.45,
+        "formatted": "217.45",
+        "text": "RM 217.45"
+      },
+      "image": {
+        "id": "64409450278027265",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409450278027265_1774080624.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409450278027265_128x158.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409450278027265_256x316.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409450278027265_1774080624.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409450278027265_1774080624.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409450278027265_1774080624.png?hash=ecd0b2837b125999620d48de438dc4ff"
+        }
+      }
+    },
+    {
+      "id": "77NWkjAtA6A",
+      "title": "iPhone 16 Pro 256GB",
+      "deposit": {
+        "value": 999,
+        "formatted": "999.00",
+        "text": "RM 999.00"
+      },
+      "amount": {
+        "value": 241.62,
+        "formatted": "241.62",
+        "text": "RM 241.62"
+      },
+      "image": {
+        "id": "64409451469209601",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409451469209601_1774080624.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409451469209601_128x156.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409451469209601_256x312.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409451469209601_1774080624.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409451469209601_1774080624.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409451469209601_1774080624.png?hash=8bf1546ff96b08dbcb380ab3094141f1"
+        }
+      }
+    },
+    {
+      "id": "mmyeAyLjF6g",
+      "title": "iPhone 16 Pro 512GB",
+      "deposit": {
+        "value": 1199,
+        "formatted": "1,199.00",
+        "text": "RM 1,199.00"
+      },
+      "amount": {
+        "value": 289.95,
+        "formatted": "289.95",
+        "text": "RM 289.95"
+      },
+      "image": {
+        "id": "64409452844941313",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409452844941313_1774080625.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409452844941313_128x158.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409452844941313_256x317.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409452844941313_1774080625.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409452844941313_1774080625.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409452844941313_1774080625.png?hash=e963ff1281fdd16e6257feff75c9b951"
+        }
+      }
+    },
+    {
+      "id": "yyh7PGhL8TR",
+      "title": "iPhone 16 Pro 1TB",
+      "deposit": {
+        "value": 1399,
+        "formatted": "1,399.00",
+        "text": "RM 1,399.00"
+      },
+      "amount": {
+        "value": 338.29,
+        "formatted": "338.29",
+        "text": "RM 338.29"
+      },
+      "image": {
+        "id": "64409454606548993",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409454606548993_1774080626.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409454606548993_128x158.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409454606548993_256x315.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409454606548993_1774080626.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409454606548993_1774080626.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409454606548993_1774080626.png?hash=af25077b2308ab6fed8cdfa2ca15c9f5"
+        }
+      }
+    }
+  ]
+}

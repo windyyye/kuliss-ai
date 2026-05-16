@@ -1,0 +1,43 @@
+{
+  "model": "iPad 11 WiFi + Cellular",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "tJxhbHpQx636",
+      "title": "iPad 11 128GB WiFi + Cellular",
+      "deposit": {
+        "value": 574,
+        "formatted": "574.00",
+        "text": "RM 574.00"
+      },
+      "amount": {
+        "value": 129.64,
+        "formatted": "129.64",
+        "text": "RM 129.64"
+      },
+      "image": {
+        "id": "68289449527607297",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289449527607297_1776393283.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289449527607297_128x128.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289449527607297_256x256.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289449527607297_512x512.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289449527607297_1776393283.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289449527607297_1776393283.jpg?hash=bbce20103f484fc92db7c9aa633670ba"
+        }
+      }
+    }
+  ]
+}

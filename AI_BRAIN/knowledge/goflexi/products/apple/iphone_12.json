@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 12",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "ff4E9HAPmyj",
+      "title": "iPhone 12 64GB",
+      "deposit": {
+        "value": 199,
+        "formatted": "199.00",
+        "text": "RM 199.00"
+      },
+      "amount": {
+        "value": 48.29,
+        "formatted": "48.29",
+        "text": "RM 48.29"
+      },
+      "image": {
+        "id": "64409507219898369",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409507219898369_1774080658.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409507219898369_128x174.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409507219898369_256x348.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409507219898369_1774080658.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409507219898369_1774080658.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409507219898369_1774080658.png?hash=9967779029ecb731256bb3a92e3bbcd7"
+        }
+      }
+    },
+    {
+      "id": "66wiN7GM4gi",
+      "title": "iPhone 12 128GB",
+      "deposit": {
+        "value": 299,
+        "formatted": "299.00",
+        "text": "RM 299.00"
+      },
+      "amount": {
+        "value": 72.45,
+        "formatted": "72.45",
+        "text": "RM 72.45"
+      },
+      "image": {
+        "id": "64409508478189569",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409508478189569_1774080658.png?hash=26a78e9dd41be92adf530916651d4750"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409508478189569_128x171.png?hash=26a78e9dd41be92adf530916651d4750"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409508478189569_256x343.png?hash=26a78e9dd41be92adf530916651d4750"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409508478189569_1774080658.png?hash=26a78e9dd41be92adf530916651d4750"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409508478189569_1774080658.png?hash=26a78e9dd41be92adf530916651d4750"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409508478189569_1774080658.png?hash=26a78e9dd41be92adf530916651d4750"
+        }
+      }
+    },
+    {
+      "id": "NNdzJhzaJ4P",
+      "title": "iPhone 12 256GB",
+      "deposit": {
+        "value": 399,
+        "formatted": "399.00",
+        "text": "RM 399.00"
+      },
+      "amount": {
+        "value": 96.62,
+        "formatted": "96.62",
+        "text": "RM 96.62"
+      },
+      "image": {
+        "id": "64409509635817473",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409509635817473_1774080659.png?hash=6995bf83825981d62632f513aad09025"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409509635817473_128x173.png?hash=6995bf83825981d62632f513aad09025"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409509635817473_256x346.png?hash=6995bf83825981d62632f513aad09025"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409509635817473_1774080659.png?hash=6995bf83825981d62632f513aad09025"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409509635817473_1774080659.png?hash=6995bf83825981d62632f513aad09025"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409509635817473_1774080659.png?hash=6995bf83825981d62632f513aad09025"
+        }
+      }
+    }
+  ]
+}

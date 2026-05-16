@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "POCO M8 5G",
+  "modelSlug": "poco-m8-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 135.62,
+        "24_month": 72.83,
+        "36_month": 52.95,
+        "48_month": 42.28,
+        "60_month": 35.87,
+        "72_month": 31.6,
+        "84_month": 28.55,
+        "96_month": 26.26,
+        "108_month": 24.48,
+        "120_month": 23.05,
+        "144_month": 20.92,
+        "180_month": 18.78
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 151.41,
+        "24_month": 81.3,
+        "36_month": 59.12,
+        "48_month": 47.2,
+        "60_month": 40.04,
+        "72_month": 35.28,
+        "84_month": 31.87,
+        "96_month": 29.31,
+        "108_month": 27.33,
+        "120_month": 25.74,
+        "144_month": 23.35,
+        "180_month": 20.97
+      }
+    }
+  ]
+}

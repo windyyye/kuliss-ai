@@ -1,0 +1,28 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung A26 5G",
+  "modelSlug": "samsung-a26-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 189.3,
+        "24_month": 101.65,
+        "36_month": 73.91,
+        "48_month": 59.01,
+        "60_month": 50.07,
+        "72_month": 44.1,
+        "84_month": 39.84,
+        "96_month": 36.65,
+        "108_month": 34.17,
+        "120_month": 32.18,
+        "144_month": 29.2,
+        "180_month": 26.22
+      }
+    }
+  ]
+}

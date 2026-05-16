@@ -1,0 +1,28 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo X Fold5",
+  "modelSlug": "vivo-x-fold5",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1010.27,
+        "24_month": 542.51,
+        "36_month": 394.48,
+        "48_month": 314.93,
+        "60_month": 267.2,
+        "72_month": 235.38,
+        "84_month": 212.65,
+        "96_month": 195.6,
+        "108_month": 182.34,
+        "120_month": 171.74,
+        "144_month": 155.83,
+        "180_month": 139.92
+      }
+    }
+  ]
+}

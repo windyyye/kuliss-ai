@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "POCO X7 Pro",
+  "modelSlug": "poco-x7-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 179.83,
+        "24_month": 96.57,
+        "36_month": 70.22,
+        "48_month": 56.06,
+        "60_month": 47.56,
+        "72_month": 41.9,
+        "84_month": 37.85,
+        "96_month": 34.82,
+        "108_month": 32.46,
+        "120_month": 30.57,
+        "144_month": 27.74,
+        "180_month": 24.9
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 211.4,
+        "24_month": 113.52,
+        "36_month": 82.55,
+        "48_month": 65.9,
+        "60_month": 55.91,
+        "72_month": 49.25,
+        "84_month": 44.5,
+        "96_month": 40.93,
+        "108_month": 38.16,
+        "120_month": 35.94,
+        "144_month": 32.61,
+        "180_month": 29.28
+      }
+    }
+  ]
+}

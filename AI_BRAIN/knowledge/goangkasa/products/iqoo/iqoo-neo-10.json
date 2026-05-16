@@ -1,0 +1,28 @@
+{
+  "brand": "iQOO",
+  "brandSlug": "iqoo",
+  "model": "iQOO Neo 10",
+  "modelSlug": "iqoo-neo-10",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 284.03,
+        "24_month": 152.52,
+        "36_month": 110.9,
+        "48_month": 88.54,
+        "60_month": 75.12,
+        "72_month": 66.17,
+        "84_month": 59.78,
+        "96_month": 54.99,
+        "108_month": 51.26,
+        "120_month": 48.28,
+        "144_month": 43.81,
+        "180_month": 39.34
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# PLAN COMPARISON FLOW - GoAngkasa vs GoFlexi
+
+## Objective
+Clearly explain the differences between the two main plans to help the customer choose the right one.
+
+## Comparison Overview
+
+| Feature | GoAngkasa | GoFlexi |
+| :--- | :--- | :--- |
+| **Target Audience** | Civil Servants / Govt Employees | Everyone (Public/Private Sector) |
+| **Payment Type** | Installment (Ownership) | Flexible Subscription |
+| **Tenure** | Up to 180 months | Monthly (Flexible) |
+| **Deposit** | Structured | Low to RM0 Deposit |
+| **Upgrade Policy** | Trade-in available | Upgrade anytime |
+| **Packages** | 3 Tiers (Basic to Premium) | Tailored Offers |
+
+## Detailed Plan Breakdown
+
+### GoAngkasa: The Long-Term Choice
+"GoAngkasa is our flagship plan for civil servants. It's designed for stability and ownership."
+- **3 Package Tiers:**
+  1. **Phone Only:** Just the device.
+  2. **Phone + Accessories:** Device plus essential gear.
+  3. **Phone + Accessories + 2yr Warranty:** Full peace of mind.
+- **Key Benefit:** Very long tenure (up to 180 months) makes monthly payments extremely low.
+
+### GoFlexi: The Flexible Choice
+"GoFlexi is for everyone who wants the latest tech without the long-term commitment."
+- **How it works:** Sign up, get verified, and receive a tailored offer based on your profile.
+- **Key Benefit:** Low or RM0 deposit, and the freedom to upgrade to a newer model whenever you're ready.
+
+## When to Recommend Which?
+
+### Recommend GoAngkasa only if:
+- The customer is a civil servant.
+
+### Recommend GoFlexi if:
+- The customer is from the private sector or self-employed.
+- They like changing phones every 1-2 years.
+- They want a fast, flexible process with minimal upfront cost.
+- They prefer a subscription-style model over traditional debt.
+
+## Conversational Tip
+"Think of GoAngkasa like buying a house with a long-term loan, and GoFlexi like a premium car subscription where you can always drive the latest model!"

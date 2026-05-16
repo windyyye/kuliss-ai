@@ -1,0 +1,28 @@
+{
+  "brand": "Realme",
+  "brandSlug": "realme",
+  "model": "Realme 13 Pro 5G",
+  "modelSlug": "realme-13-pro-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 291.92,
+        "24_month": 156.76,
+        "36_month": 113.99,
+        "48_month": 91,
+        "60_month": 77.21,
+        "72_month": 68.01,
+        "84_month": 61.44,
+        "96_month": 56.52,
+        "108_month": 52.69,
+        "120_month": 49.62,
+        "144_month": 45.03,
+        "180_month": 40.43
+      }
+    }
+  ]
+}

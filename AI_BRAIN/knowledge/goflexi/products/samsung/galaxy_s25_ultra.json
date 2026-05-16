@@ -1,0 +1,117 @@
+{
+  "model": "Galaxy S25 Ultra",
+  "brand": "Samsung",
+  "variants": [
+    {
+      "id": "CijUEKfYrAhX",
+      "title": "Galaxy S25 Ultra 256GB",
+      "deposit": {
+        "value": 1019,
+        "formatted": "1,019.00",
+        "text": "RM 1,019.00"
+      },
+      "amount": {
+        "value": 246.45,
+        "formatted": "246.45",
+        "text": "RM 246.45"
+      },
+      "image": {
+        "id": "68289461607202817",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289461607202817_1776393291.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289461607202817_128x128.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289461607202817_256x256.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289461607202817_512x512.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289461607202817_1776393291.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289461607202817_1776393291.jpeg?hash=cbfe7df799b55a0ef26bd737a4d1216b"
+        }
+      }
+    },
+    {
+      "id": "HKBTmDgayyyK",
+      "title": "Galaxy S25 Ultra 512GB",
+      "deposit": {
+        "value": 1099,
+        "formatted": "1,099.00",
+        "text": "RM 1,099.00"
+      },
+      "amount": {
+        "value": 265.79,
+        "formatted": "265.79",
+        "text": "RM 265.79"
+      },
+      "image": {
+        "id": "68289462798385153",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289462798385153_1776393291.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289462798385153_128x128.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289462798385153_256x256.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289462798385153_512x512.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289462798385153_1776393291.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289462798385153_1776393291.jpeg?hash=72f49ee73c6f24eb9f340031746d93f3"
+        }
+      }
+    },
+    {
+      "id": "W46Vp8rJxcED",
+      "title": "Galaxy S25 Ultra 1TB",
+      "deposit": {
+        "value": 1339,
+        "formatted": "1,339.00",
+        "text": "RM 1,339.00"
+      },
+      "amount": {
+        "value": 323.78,
+        "formatted": "323.78",
+        "text": "RM 323.78"
+      },
+      "image": {
+        "id": "68289463939235841",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289463939235841_1776393292.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289463939235841_128x128.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289463939235841_256x256.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289463939235841_512x512.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289463939235841_1776393292.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289463939235841_1776393292.jpeg?hash=6fde43e193ccf5266e4adccf3544223e"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "model": "iPad 11 WiFi",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "RkTnqidTmhek",
+      "title": "iPad 11 128GB WiFi",
+      "deposit": {
+        "value": 399,
+        "formatted": "399.00",
+        "text": "RM 399.00"
+      },
+      "amount": {
+        "value": 90.17,
+        "formatted": "90.17",
+        "text": "RM 90.17"
+      },
+      "image": {
+        "id": "68289448235761665",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289448235761665_1776393283.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289448235761665_128x128.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289448235761665_256x256.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289448235761665_512x512.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289448235761665_1776393283.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289448235761665_1776393283.jpg?hash=89cbc4a551c9ce865facee8befe1a256"
+        }
+      }
+    }
+  ]
+}

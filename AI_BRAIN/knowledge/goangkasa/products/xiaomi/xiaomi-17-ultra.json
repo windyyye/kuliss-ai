@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "Xiaomi 17 Ultra",
+  "modelSlug": "xiaomi-17-ultra",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 868.18,
+        "24_month": 466.21,
+        "36_month": 339,
+        "48_month": 270.63,
+        "60_month": 229.62,
+        "72_month": 202.27,
+        "84_month": 182.74,
+        "96_month": 168.09,
+        "108_month": 156.7,
+        "120_month": 147.58,
+        "144_month": 133.91,
+        "180_month": 120.24
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 947.12,
+        "24_month": 508.6,
+        "36_month": 369.82,
+        "48_month": 295.24,
+        "60_month": 250.5,
+        "72_month": 220.66,
+        "84_month": 199.36,
+        "96_month": 183.37,
+        "108_month": 170.94,
+        "120_month": 161,
+        "144_month": 146.08,
+        "180_month": 131.17
+      }
+    }
+  ]
+}

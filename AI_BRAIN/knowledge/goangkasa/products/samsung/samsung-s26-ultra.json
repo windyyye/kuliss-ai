@@ -1,0 +1,64 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung S26 Ultra",
+  "modelSlug": "samsung-s26-ultra",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 947.12,
+        "24_month": 508.6,
+        "36_month": 369.82,
+        "48_month": 295.24,
+        "60_month": 250.5,
+        "72_month": 220.66,
+        "84_month": 199.36,
+        "96_month": 183.37,
+        "108_month": 170.94,
+        "120_month": 161,
+        "144_month": 146.08,
+        "180_month": 131.17
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1073.43,
+        "24_month": 576.42,
+        "36_month": 419.14,
+        "48_month": 334.61,
+        "60_month": 283.9,
+        "72_month": 250.09,
+        "84_month": 225.94,
+        "96_month": 207.83,
+        "108_month": 193.74,
+        "120_month": 182.47,
+        "144_month": 165.57,
+        "180_month": 148.66
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1262.88,
+        "24_month": 678.16,
+        "36_month": 493.12,
+        "48_month": 393.67,
+        "60_month": 334.01,
+        "72_month": 294.23,
+        "84_month": 265.82,
+        "96_month": 244.51,
+        "108_month": 227.94,
+        "120_month": 214.68,
+        "144_month": 194.79,
+        "180_month": 174.9
+      }
+    }
+  ]
+}

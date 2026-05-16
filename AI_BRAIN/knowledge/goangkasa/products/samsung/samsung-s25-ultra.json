@@ -1,0 +1,64 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung S25 Ultra",
+  "modelSlug": "samsung-s25-ultra",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 868.18,
+        "24_month": 466.21,
+        "36_month": 339,
+        "48_month": 270.63,
+        "60_month": 229.62,
+        "72_month": 202.27,
+        "84_month": 182.74,
+        "96_month": 168.09,
+        "108_month": 156.7,
+        "120_month": 147.58,
+        "144_month": 133.91,
+        "180_month": 120.24
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 962.91,
+        "24_month": 517.08,
+        "36_month": 375.99,
+        "48_month": 300.16,
+        "60_month": 254.67,
+        "72_month": 224.34,
+        "84_month": 202.68,
+        "96_month": 186.43,
+        "108_month": 173.79,
+        "120_month": 163.68,
+        "144_month": 148.52,
+        "180_month": 133.36
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1152.37,
+        "24_month": 618.81,
+        "36_month": 449.96,
+        "48_month": 359.22,
+        "60_month": 304.78,
+        "72_month": 268.48,
+        "84_month": 242.56,
+        "96_month": 223.11,
+        "108_month": 207.99,
+        "120_month": 195.89,
+        "144_month": 177.74,
+        "180_month": 159.59
+      }
+    }
+  ]
+}

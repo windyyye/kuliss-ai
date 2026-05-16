@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 17 Pro Max",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "QT4HzQdHAKFq",
+      "title": "iPhone 17 Pro Max 256GB",
+      "deposit": {
+        "value": 1799,
+        "formatted": "1,799.00",
+        "text": "RM 1,799.00"
+      },
+      "amount": {
+        "value": 320.78,
+        "formatted": "320.78",
+        "text": "RM 320.78"
+      },
+      "image": {
+        "id": "68352949058797569",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352949058797569_1776431132.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352949058797569_128x164.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352949058797569_256x329.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352949058797569_1776431132.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352949058797569_1776431132.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352949058797569_1776431132.png?hash=c27714dacaea56339b8a4829b5db84a5"
+        }
+      }
+    },
+    {
+      "id": "VyK4MVcJB6hy",
+      "title": "iPhone 17 Pro Max 512GB",
+      "deposit": {
+        "value": 2099,
+        "formatted": "2,099.00",
+        "text": "RM 2,099.00"
+      },
+      "amount": {
+        "value": 374.25,
+        "formatted": "374.25",
+        "text": "RM 374.25"
+      },
+      "image": {
+        "id": "68352950266757121",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352950266757121_1776431133.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352950266757121_128x162.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352950266757121_256x325.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352950266757121_1776431133.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352950266757121_1776431133.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352950266757121_1776431133.png?hash=9d3045bf069a985675fe898f0d932b9e"
+        }
+      }
+    },
+    {
+      "id": "gDprQg6Yj8YT",
+      "title": "iPhone 17 Pro Max 1TB",
+      "deposit": {
+        "value": 2399,
+        "formatted": "2,399.00",
+        "text": "RM 2,399.00"
+      },
+      "amount": {
+        "value": 427.72,
+        "formatted": "427.72",
+        "text": "RM 427.72"
+      },
+      "image": {
+        "id": "68352951457939457",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352951457939457_1776431134.png?hash=71e450be73628bf85dbc619d184755d2"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352951457939457_128x163.png?hash=71e450be73628bf85dbc619d184755d2"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352951457939457_256x327.png?hash=71e450be73628bf85dbc619d184755d2"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352951457939457_1776431134.png?hash=71e450be73628bf85dbc619d184755d2"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352951457939457_1776431134.png?hash=71e450be73628bf85dbc619d184755d2"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352951457939457_1776431134.png?hash=71e450be73628bf85dbc619d184755d2"
+        }
+      }
+    }
+  ]
+}

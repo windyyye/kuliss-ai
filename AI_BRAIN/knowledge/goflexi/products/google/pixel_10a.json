@@ -1,0 +1,80 @@
+{
+  "model": "Pixel 10a",
+  "brand": "Google",
+  "variants": [
+    {
+      "id": "6EMK34gUjnrn",
+      "title": "Pixel 10a 128GB",
+      "deposit": {
+        "value": 459,
+        "formatted": "459.00",
+        "text": "RM 459.00"
+      },
+      "amount": {
+        "value": 111.12,
+        "formatted": "111.12",
+        "text": "RM 111.12"
+      },
+      "image": {
+        "id": "68289529252937729",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289529252937729_1776393331.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289529252937729_128x128.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289529252937729_256x256.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289529252937729_512x512.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289529252937729_1776393331.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289529252937729_1776393331.jpg?hash=1ccfd10b2d9d07388e3a432a39240bd9"
+        }
+      }
+    },
+    {
+      "id": "7Gqit9zet9HW",
+      "title": "Pixel 10a 256GB",
+      "deposit": {
+        "value": 559,
+        "formatted": "559.00",
+        "text": "RM 559.00"
+      },
+      "amount": {
+        "value": 135.28,
+        "formatted": "135.28",
+        "text": "RM 135.28"
+      },
+      "image": {
+        "id": "68289530595115009",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289530595115009_1776393332.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289530595115009_128x128.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289530595115009_256x256.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289530595115009_512x512.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289530595115009_1776393332.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289530595115009_1776393332.jpg?hash=74f7811b0fe76b87e7b147b4aef26e87"
+        }
+      }
+    }
+  ]
+}

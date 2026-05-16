@@ -1,0 +1,46 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo V70 5G",
+  "modelSlug": "vivo-v70-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 347.18,
+        "24_month": 186.43,
+        "36_month": 135.56,
+        "48_month": 108.22,
+        "60_month": 91.82,
+        "72_month": 80.89,
+        "84_month": 73.08,
+        "96_month": 67.22,
+        "108_month": 62.66,
+        "120_month": 59.02,
+        "144_month": 53.55,
+        "180_month": 48.08
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 410.33,
+        "24_month": 220.35,
+        "36_month": 160.22,
+        "48_month": 127.91,
+        "60_month": 108.52,
+        "72_month": 95.6,
+        "84_month": 86.37,
+        "96_month": 79.44,
+        "108_month": 74.06,
+        "120_month": 69.75,
+        "144_month": 63.29,
+        "180_month": 56.83
+      }
+    }
+  ]
+}

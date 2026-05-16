@@ -1,0 +1,46 @@
+{
+  "brand": "HONOR",
+  "brandSlug": "honor",
+  "model": "HONOR Magic8 Pro",
+  "modelSlug": "honor-magic8-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 726.09,
+        "24_month": 389.91,
+        "36_month": 283.52,
+        "48_month": 226.34,
+        "60_month": 192.04,
+        "72_month": 169.17,
+        "84_month": 152.83,
+        "96_month": 140.58,
+        "108_month": 131.05,
+        "120_month": 123.43,
+        "144_month": 111.99,
+        "180_month": 100.56
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 820.82,
+        "24_month": 440.77,
+        "36_month": 320.5,
+        "48_month": 255.87,
+        "60_month": 217.09,
+        "72_month": 191.24,
+        "84_month": 172.77,
+        "96_month": 158.92,
+        "108_month": 148.15,
+        "120_month": 139.53,
+        "144_month": 126.6,
+        "180_month": 113.68
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO A6t 5G",
+  "modelSlug": "oppo-a6t-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 173.51,
+        "24_month": 93.17,
+        "36_month": 67.75,
+        "48_month": 54.09,
+        "60_month": 45.89,
+        "72_month": 40.42,
+        "84_month": 36.52,
+        "96_month": 33.55,
+        "108_month": 31.32,
+        "120_month": 29.49,
+        "144_month": 26.76,
+        "180_month": 24.03
+      }
+    }
+  ]
+}

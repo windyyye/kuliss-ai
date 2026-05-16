@@ -1,0 +1,28 @@
+{
+  "brand": "Nothing",
+  "brandSlug": "nothing",
+  "model": "Nothing 2a Plus",
+  "modelSlug": "nothing-2a-plus",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 205.09,
+        "24_month": 110.13,
+        "36_month": 80.08,
+        "48_month": 63.93,
+        "60_month": 54.24,
+        "72_month": 47.78,
+        "84_month": 43.17,
+        "96_month": 39.71,
+        "108_month": 37.02,
+        "120_month": 34.86,
+        "144_month": 31.63,
+        "180_month": 28.4
+      }
+    }
+  ]
+}

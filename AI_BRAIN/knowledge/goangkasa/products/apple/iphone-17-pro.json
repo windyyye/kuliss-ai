@@ -1,0 +1,172 @@
+{
+  "brand": "Apple",
+  "brandSlug": "apple",
+  "model": "iPhone 17 Pro",
+  "modelSlug": "iphone-17-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 868.18,
+        "24_month": 466.21,
+        "36_month": 339,
+        "48_month": 270.63,
+        "60_month": 229.62,
+        "72_month": 202.27,
+        "84_month": 182.74,
+        "96_month": 168.09,
+        "108_month": 156.7,
+        "120_month": 147.58,
+        "144_month": 133.91,
+        "180_month": 120.24
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1026.06,
+        "24_month": 550.99,
+        "36_month": 400.64,
+        "48_month": 319.85,
+        "60_month": 271.37,
+        "72_month": 239.06,
+        "84_month": 215.97,
+        "96_month": 198.66,
+        "108_month": 185.19,
+        "120_month": 174.42,
+        "144_month": 158.26,
+        "180_month": 142.1
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1183.94,
+        "24_month": 635.77,
+        "36_month": 462.29,
+        "48_month": 369.07,
+        "60_month": 313.13,
+        "72_month": 275.84,
+        "84_month": 249.2,
+        "96_month": 229.23,
+        "108_month": 213.69,
+        "120_month": 201.26,
+        "144_month": 182.61,
+        "180_month": 163.97
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 950.91,
+        "24_month": 510.63,
+        "36_month": 371.3,
+        "48_month": 296.42,
+        "60_month": 251.5,
+        "72_month": 221.55,
+        "84_month": 200.15,
+        "96_month": 184.11,
+        "108_month": 171.63,
+        "120_month": 161.64,
+        "144_month": 146.67,
+        "180_month": 131.69
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1108.79,
+        "24_month": 595.41,
+        "36_month": 432.95,
+        "48_month": 345.64,
+        "60_month": 293.25,
+        "72_month": 258.33,
+        "84_month": 233.38,
+        "96_month": 214.68,
+        "108_month": 200.12,
+        "120_month": 188.48,
+        "144_month": 171.02,
+        "180_month": 153.56
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1266.67,
+        "24_month": 680.2,
+        "36_month": 494.6,
+        "48_month": 394.85,
+        "60_month": 335.01,
+        "72_month": 295.11,
+        "84_month": 266.62,
+        "96_month": 245.24,
+        "108_month": 228.62,
+        "120_month": 215.32,
+        "144_month": 195.37,
+        "180_month": 175.42
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1050.8,
+        "24_month": 564.27,
+        "36_month": 410.3,
+        "48_month": 327.56,
+        "60_month": 277.92,
+        "72_month": 244.82,
+        "84_month": 221.18,
+        "96_month": 203.45,
+        "108_month": 189.66,
+        "120_month": 178.62,
+        "144_month": 162.08,
+        "180_month": 145.53
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1208.68,
+        "24_month": 649.05,
+        "36_month": 471.95,
+        "48_month": 376.78,
+        "60_month": 319.67,
+        "72_month": 281.6,
+        "84_month": 254.41,
+        "96_month": 234.01,
+        "108_month": 218.15,
+        "120_month": 205.46,
+        "144_month": 186.43,
+        "180_month": 167.39
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1366.56,
+        "24_month": 733.83,
+        "36_month": 533.6,
+        "48_month": 425.99,
+        "60_month": 361.43,
+        "72_month": 318.39,
+        "84_month": 287.64,
+        "96_month": 264.58,
+        "108_month": 246.65,
+        "120_month": 232.3,
+        "144_month": 210.78,
+        "180_month": 189.26
+      }
+    }
+  ]
+}

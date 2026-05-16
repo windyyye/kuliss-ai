@@ -1,0 +1,46 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung S25",
+  "modelSlug": "samsung-s25",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 631.36,
+        "24_month": 339.04,
+        "36_month": 246.53,
+        "48_month": 196.81,
+        "60_month": 166.98,
+        "72_month": 147.1,
+        "84_month": 132.89,
+        "96_month": 122.24,
+        "108_month": 113.95,
+        "120_month": 107.32,
+        "144_month": 97.38,
+        "180_month": 87.44
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 726.09,
+        "24_month": 389.91,
+        "36_month": 283.52,
+        "48_month": 226.34,
+        "60_month": 192.04,
+        "72_month": 169.17,
+        "84_month": 152.83,
+        "96_month": 140.58,
+        "108_month": 131.05,
+        "120_month": 123.43,
+        "144_month": 111.99,
+        "180_month": 100.56
+      }
+    }
+  ]
+}

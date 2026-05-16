@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "Xiaomi 17",
+  "modelSlug": "xiaomi-17",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 552.42,
+        "24_month": 296.65,
+        "36_month": 215.7,
+        "48_month": 172.2,
+        "60_month": 146.1,
+        "72_month": 128.71,
+        "84_month": 116.28,
+        "96_month": 106.96,
+        "108_month": 99.71,
+        "120_month": 93.91,
+        "144_month": 85.21,
+        "180_month": 76.51
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 599.79,
+        "24_month": 322.08,
+        "36_month": 234.2,
+        "48_month": 186.97,
+        "60_month": 158.63,
+        "72_month": 139.74,
+        "84_month": 126.25,
+        "96_month": 116.13,
+        "108_month": 108.25,
+        "120_month": 101.96,
+        "144_month": 92.51,
+        "180_month": 83.07
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "Realme",
+  "brandSlug": "realme",
+  "model": "Realme GT 7T",
+  "modelSlug": "realme-gt-7t",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 268.24,
+        "24_month": 144.04,
+        "36_month": 104.74,
+        "48_month": 83.62,
+        "60_month": 70.94,
+        "72_month": 62.5,
+        "84_month": 56.46,
+        "96_month": 51.93,
+        "108_month": 48.41,
+        "120_month": 45.6,
+        "144_month": 41.37,
+        "180_month": 37.15
+      }
+    }
+  ]
+}

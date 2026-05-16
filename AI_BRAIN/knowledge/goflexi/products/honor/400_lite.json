@@ -1,0 +1,43 @@
+{
+  "model": "400 Lite",
+  "brand": "Honor",
+  "variants": [
+    {
+      "id": "CijUEzcbGhbi",
+      "title": "400 Lite 256GB",
+      "deposit": {
+        "value": 259,
+        "formatted": "259.00",
+        "text": "RM 259.00"
+      },
+      "amount": {
+        "value": 62.79,
+        "formatted": "62.79",
+        "text": "RM 62.79"
+      },
+      "image": {
+        "id": "68289482998153217",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289482998153217_1776393303.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289482998153217_128x128.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289482998153217_256x256.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289482998153217_512x512.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289482998153217_1776393303.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289482998153217_1776393303.jpg?hash=4c72ec4f5c1796bb6987d0b5b4ba3084"
+        }
+      }
+    }
+  ]
+}

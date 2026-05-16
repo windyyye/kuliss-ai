@@ -1,0 +1,80 @@
+{
+  "model": "iPhone 12 Pro",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "BBUgFgtha6W",
+      "title": "iPhone 12 Pro 128GB",
+      "deposit": {
+        "value": 499,
+        "formatted": "499.00",
+        "text": "RM 499.00"
+      },
+      "amount": {
+        "value": 120.79,
+        "formatted": "120.79",
+        "text": "RM 120.79"
+      },
+      "image": {
+        "id": "64409514819977217",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409514819977217_1774080662.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409514819977217_128x173.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409514819977217_256x346.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409514819977217_1774080662.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409514819977217_1774080662.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409514819977217_1774080662.png?hash=7d3efcf38da8331fc9012bdf6322e7e5"
+        }
+      }
+    },
+    {
+      "id": "99aQb6A8dCe",
+      "title": "iPhone 12 Pro 256GB",
+      "deposit": {
+        "value": 599,
+        "formatted": "599.00",
+        "text": "RM 599.00"
+      },
+      "amount": {
+        "value": 144.95,
+        "formatted": "144.95",
+        "text": "RM 144.95"
+      },
+      "image": {
+        "id": "64409516229263361",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409516229263361_1774080663.png?hash=150b97b3191298a810500d1dc1d564d8"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409516229263361_128x174.png?hash=150b97b3191298a810500d1dc1d564d8"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409516229263361_256x348.png?hash=150b97b3191298a810500d1dc1d564d8"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409516229263361_1774080663.png?hash=150b97b3191298a810500d1dc1d564d8"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409516229263361_1774080663.png?hash=150b97b3191298a810500d1dc1d564d8"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409516229263361_1774080663.png?hash=150b97b3191298a810500d1dc1d564d8"
+        }
+      }
+    }
+  ]
+}

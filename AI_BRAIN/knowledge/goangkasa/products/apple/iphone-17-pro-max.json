@@ -1,0 +1,226 @@
+{
+  "brand": "Apple",
+  "brandSlug": "apple",
+  "model": "iPhone 17 Pro Max",
+  "modelSlug": "iphone-17-pro-max",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 947.12,
+        "24_month": 508.6,
+        "36_month": 369.82,
+        "48_month": 295.24,
+        "60_month": 250.5,
+        "72_month": 220.66,
+        "84_month": 199.36,
+        "96_month": 183.37,
+        "108_month": 170.94,
+        "120_month": 161,
+        "144_month": 146.08,
+        "180_month": 131.17
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1105,
+        "24_month": 593.38,
+        "36_month": 431.47,
+        "48_month": 344.46,
+        "60_month": 292.25,
+        "72_month": 257.45,
+        "84_month": 232.59,
+        "96_month": 213.94,
+        "108_month": 199.44,
+        "120_month": 187.84,
+        "144_month": 170.44,
+        "180_month": 153.03
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1262.88,
+        "24_month": 678.16,
+        "36_month": 493.12,
+        "48_month": 393.67,
+        "60_month": 334.01,
+        "72_month": 294.23,
+        "84_month": 265.82,
+        "96_month": 244.51,
+        "108_month": 227.94,
+        "120_month": 214.68,
+        "144_month": 194.79,
+        "180_month": 174.9
+      }
+    },
+    {
+      "storage": "2TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1578.64,
+        "24_month": 847.72,
+        "36_month": 616.41,
+        "48_month": 492.1,
+        "60_month": 417.52,
+        "72_month": 367.8,
+        "84_month": 332.28,
+        "96_month": 305.64,
+        "108_month": 284.93,
+        "120_month": 268.35,
+        "144_month": 243.49,
+        "180_month": 218.63
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1029.85,
+        "24_month": 553.02,
+        "36_month": 402.12,
+        "48_month": 321.03,
+        "60_month": 272.38,
+        "72_month": 239.94,
+        "84_month": 216.77,
+        "96_month": 199.39,
+        "108_month": 185.88,
+        "120_month": 175.06,
+        "144_month": 158.85,
+        "180_month": 142.63
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1187.73,
+        "24_month": 637.81,
+        "36_month": 463.77,
+        "48_month": 370.25,
+        "60_month": 314.13,
+        "72_month": 276.72,
+        "84_month": 250,
+        "96_month": 229.96,
+        "108_month": 214.37,
+        "120_month": 201.9,
+        "144_month": 183.2,
+        "180_month": 164.49
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1345.61,
+        "24_month": 722.59,
+        "36_month": 525.42,
+        "48_month": 419.46,
+        "60_month": 355.89,
+        "72_month": 313.51,
+        "84_month": 283.23,
+        "96_month": 260.53,
+        "108_month": 242.87,
+        "120_month": 228.74,
+        "144_month": 207.55,
+        "180_month": 186.36
+      }
+    },
+    {
+      "storage": "2TB",
+      "packageType": "Phone + Accessories",
+      "installmentPlans": {
+        "12_month": 1661.37,
+        "24_month": 892.15,
+        "36_month": 648.71,
+        "48_month": 517.89,
+        "60_month": 439.4,
+        "72_month": 387.07,
+        "84_month": 349.69,
+        "96_month": 321.66,
+        "108_month": 299.86,
+        "120_month": 282.42,
+        "144_month": 256.25,
+        "180_month": 230.09
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1129.74,
+        "24_month": 606.66,
+        "36_month": 441.13,
+        "48_month": 352.17,
+        "60_month": 298.79,
+        "72_month": 263.21,
+        "84_month": 237.79,
+        "96_month": 218.73,
+        "108_month": 203.9,
+        "120_month": 192.04,
+        "144_month": 174.25,
+        "180_month": 156.46
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1287.62,
+        "24_month": 691.44,
+        "36_month": 502.77,
+        "48_month": 401.38,
+        "60_month": 340.55,
+        "72_month": 299.99,
+        "84_month": 271.02,
+        "96_month": 249.3,
+        "108_month": 232.4,
+        "120_month": 218.88,
+        "144_month": 198.6,
+        "180_month": 178.33
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1445.5,
+        "24_month": 776.22,
+        "36_month": 564.42,
+        "48_month": 450.6,
+        "60_month": 382.31,
+        "72_month": 336.78,
+        "84_month": 304.26,
+        "96_month": 279.87,
+        "108_month": 260.9,
+        "120_month": 245.72,
+        "144_month": 222.95,
+        "180_month": 200.19
+      }
+    },
+    {
+      "storage": "2TB",
+      "packageType": "Phone + Accessories + 2 Yrs Warranty",
+      "installmentPlans": {
+        "12_month": 1761.26,
+        "24_month": 945.79,
+        "36_month": 687.72,
+        "48_month": 549.03,
+        "60_month": 465.82,
+        "72_month": 410.34,
+        "84_month": 370.72,
+        "96_month": 341,
+        "108_month": 317.89,
+        "120_month": 299.39,
+        "144_month": 271.66,
+        "180_month": 243.92
+      }
+    }
+  ]
+}

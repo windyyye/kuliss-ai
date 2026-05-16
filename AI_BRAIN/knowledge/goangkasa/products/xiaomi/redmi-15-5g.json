@@ -1,0 +1,28 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "REDMI 15 5G",
+  "modelSlug": "redmi-15-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 115.09,
+        "24_month": 61.81,
+        "36_month": 44.94,
+        "48_month": 35.88,
+        "60_month": 30.44,
+        "72_month": 26.82,
+        "84_month": 24.23,
+        "96_month": 22.28,
+        "108_month": 20.77,
+        "120_month": 19.56,
+        "144_month": 17.75,
+        "180_month": 15.94
+      }
+    }
+  ]
+}

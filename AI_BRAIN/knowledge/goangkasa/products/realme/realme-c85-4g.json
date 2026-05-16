@@ -1,0 +1,28 @@
+{
+  "brand": "Realme",
+  "brandSlug": "realme",
+  "model": "Realme C85 4G",
+  "modelSlug": "realme-c85-4g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 113.67,
+        "24_month": 61.04,
+        "36_month": 44.39,
+        "48_month": 35.44,
+        "60_month": 30.06,
+        "72_month": 26.48,
+        "84_month": 23.93,
+        "96_month": 22.01,
+        "108_month": 20.52,
+        "120_month": 19.32,
+        "144_month": 17.53,
+        "180_month": 15.74
+      }
+    }
+  ]
+}

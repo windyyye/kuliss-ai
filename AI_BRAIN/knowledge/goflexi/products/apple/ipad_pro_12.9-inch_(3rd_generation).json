@@ -1,0 +1,43 @@
+{
+  "model": "iPad Pro 12.9-inch (3rd Generation)",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "KeAbWFxVr4Re",
+      "title": "iPad Pro 12.9-inch (3rd Generation) 128GB",
+      "deposit": {
+        "value": 1498,
+        "formatted": "1,498.00",
+        "text": "RM 1,498.00"
+      },
+      "amount": {
+        "value": 46.62,
+        "formatted": "46.62",
+        "text": "RM 46.62"
+      },
+      "image": {
+        "id": "68289455315746817",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289455315746817_1776393288.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289455315746817_128x128.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289455315746817_256x256.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289455315746817_512x512.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289455315746817_1776393288.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289455315746817_1776393288.jpg?hash=b446da24dad1ff6aa4150a5577c8ee43"
+        }
+      }
+    }
+  ]
+}

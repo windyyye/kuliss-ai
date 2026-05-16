@@ -1,0 +1,28 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung A36 5G",
+  "modelSlug": "samsung-a36-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 236.66,
+        "24_month": 127.09,
+        "36_month": 92.41,
+        "48_month": 73.77,
+        "60_month": 62.59,
+        "72_month": 55.14,
+        "84_month": 49.81,
+        "96_month": 45.82,
+        "108_month": 42.71,
+        "120_month": 40.23,
+        "144_month": 36.5,
+        "180_month": 32.78
+      }
+    }
+  ]
+}

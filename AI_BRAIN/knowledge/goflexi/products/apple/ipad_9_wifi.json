@@ -1,0 +1,43 @@
+{
+  "model": "iPad 9 WiFi",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "LaNGUAjCEazY",
+      "title": "iPad 9 64GB WiFi",
+      "deposit": {
+        "value": 249,
+        "formatted": "249.00",
+        "text": "RM 249.00"
+      },
+      "amount": {
+        "value": 56.33,
+        "formatted": "56.33",
+        "text": "RM 56.33"
+      },
+      "image": {
+        "id": "68289453017268225",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289453017268225_1776393285.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289453017268225_128x128.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289453017268225_256x256.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289453017268225_1776393285.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289453017268225_1776393285.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289453017268225_1776393285.png?hash=ed51f34f9b89db9b0c001672d26fa091"
+        }
+      }
+    }
+  ]
+}

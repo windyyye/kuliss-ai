@@ -1,0 +1,130 @@
+GoAnsuran Eligibility Criteria
+
+This document provides detailed eligibility criteria for both GoAngkasa and GoFlexi plans. Use this information to guide customers who ask about qualifying for either program.
+
+========================================
+GOANGKASA ELIGIBILITY
+========================================
+
+Who Can Apply:
+GoAngkasa is designed exclusively for government or GLC (Government-Linked Company) workers. The following groups are eligible:
+
+1. Malaysian Civil Servants (Kakitangan Kerajaan Malaysia)
+   - Federal government employees across all ministries and departments
+   - State government employees
+   - Local government (PBT - Pihak Berkuasa Tempatan) employees
+
+2. Government-Linked Company (GLC) Employees
+   - Employees of companies with significant government ownership or affiliation
+   - This includes statutory bodies and government agencies
+
+3. Cooperative Employees with Active ASBN
+   - Employees who are members of cooperatives registered with Angkatan Simpanan Nasional Berhad (ASBN)
+   - Must have an active ASBN membership in good standing
+
+Required Documents:
+- Current month's payslip
+- Previous month's payslip
+- CTOS report
+- Latest EPF statement (optional)
+
+Key Requirements:
+- Must be a Malaysian citizen or permanent resident
+- Must hold a valid government staff ID or equivalent official identification
+- Must have an active ASBN (Angkatan Simpanan Nasional Berhad) account
+
+Credit Profile Considerations:
+- Bad CTOS can still apply — GoAngkasa evaluates applications holistically
+- Applicants with higher DSR (Debt Service Ratio) are welcome to apply
+- The primary qualification is verified civil servant or government employee status
+- Credit assessment is not purely score-based
+
+Salary Deduction:
+- Monthly installments are deducted directly from salary via Angkasa's programme
+- This ensures automatic, hassle-free payments with no risk of late fees
+
+Approval Timeline:
+- Approval typically takes 2-3 days
+
+Important Note for Customers:
+If a customer asks about eligibility and they are NOT a civil servant or government employee, politely redirect them to the GoFlexi plan, which is open to everyone.
+
+========================================
+GOFLEXI ELIGIBILITY
+========================================
+
+Who Can Apply:
+GoFlexi is open to the general public with no specific employment requirements. The following groups are eligible, each with their own document requirements:
+
+1. Private Sector Workers
+   Required documents:
+   - Current month's payslip
+   - Previous month's payslip
+   - CTOS report
+   - Latest EPF statement (optional)
+
+2. Self-Employed
+   Required documents:
+   - SSM Business Registration (SSM corporate profile)
+   - Current month's bank statement
+   - Previous month's bank statement
+   - Bank statement from 2 months ago
+   - CTOS report
+
+3. Platform Riders / Drivers (Lalamove, Grab, FoodPanda & etc)
+   Required documents:
+   - Current month's income statement
+   - Previous month's income statement
+   - Income statement from 2 months ago
+   - CTOS report
+
+4. Commissioned Agent (MLM, Cuckoo, Insurance, Property & etc)
+   Required documents:
+   - Current month's commission statement
+   - Previous month's commission statement
+   - Commission statement from 2 months ago
+   - CTOS report
+
+5. Students (minimum 18 years old)
+   Required documents:
+   - Student ID picture (front and back)
+   - Current month's bank statement
+   - Previous month's bank statement
+   - Bank statement from 2 months ago
+
+6. Others (Foreign Workers, Housewives, Retirees, Pensioners & etc)
+   Required documents:
+   - Current month's bank statement
+   - Previous month's bank statement
+   - Bank statement from 2 months ago
+   - CTOS report
+
+Key Points:
+- No guarantor required for any category.
+- Bad CTOS can still apply — GoFlexi is suitable for clients with low or no CTOS score.
+- Deposit is required — amount depends on device and applicant profile.
+- Approval takes 2-3 working days.
+- All applicants must complete the e-KYC process (personal data, identity verification, residency address, emergency contact, occupation, phone model selection, email verification).
+
+========================================
+GUIDANCE FOR CHATBOT CONVERSATIONS
+========================================
+
+When the occupation of a customer is collected or client asks "Am I eligible?" or "Who can apply?":
+
+1. First, determine their employment type:
+   - Ask: "Are you a government employee or civil servant?" or "Kakitangan kerajaan ke?"
+   
+2. If YES (civil servant/government employee):
+   - Recommend GoAngkasa as the primary option (better long-term value)
+   - Mention GoFlexi as an alternative if they prefer shorter commitments
+   - Highlight the inclusive credit policy for GoAngkasa
+
+3. If NO (private sector/self-employed/student):
+   - Recommend GoFlexi as their option
+   - Highlight the RM 0 deposit and upgrade freedom
+   - Guide them to goansuran.com.my to sign up
+
+4. If unsure about their status:
+   - Explain both plans briefly and ask which one interests them
+   - Offer to help them determine the best fit based on their situation

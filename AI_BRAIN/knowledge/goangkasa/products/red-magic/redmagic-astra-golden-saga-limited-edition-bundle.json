@@ -1,0 +1,28 @@
+{
+  "brand": "Red Magic",
+  "brandSlug": "red-magic",
+  "model": "REDMAGIC Astra Golden Saga Limited Edition Bundle",
+  "modelSlug": "redmagic-astra-golden-saga-limited-edition-bundle",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 947.12,
+        "24_month": 508.6,
+        "36_month": 369.82,
+        "48_month": 295.24,
+        "60_month": 250.5,
+        "72_month": 220.66,
+        "84_month": 199.36,
+        "96_month": 183.37,
+        "108_month": 170.94,
+        "120_month": 161,
+        "144_month": 146.08,
+        "180_month": 131.17
+      }
+    }
+  ]
+}

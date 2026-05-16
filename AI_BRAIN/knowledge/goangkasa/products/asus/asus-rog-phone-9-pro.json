@@ -1,0 +1,28 @@
+{
+  "brand": "Asus",
+  "brandSlug": "asus",
+  "model": "Asus ROG Phone 9 Pro",
+  "modelSlug": "asus-rog-phone-9-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 631.36,
+        "24_month": 339.04,
+        "36_month": 246.53,
+        "48_month": 196.81,
+        "60_month": 166.98,
+        "72_month": 147.1,
+        "84_month": 132.89,
+        "96_month": 122.24,
+        "108_month": 113.95,
+        "120_month": 107.32,
+        "144_month": 97.38,
+        "180_month": 87.44
+      }
+    }
+  ]
+}

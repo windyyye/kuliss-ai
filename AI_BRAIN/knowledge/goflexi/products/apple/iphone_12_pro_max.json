@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 12 Pro Max",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "BBUgFdh7Tcg",
+      "title": "iPhone 12 Pro Max 128GB",
+      "deposit": {
+        "value": 599,
+        "formatted": "599.00",
+        "text": "RM 599.00"
+      },
+      "amount": {
+        "value": 144.95,
+        "formatted": "144.95",
+        "text": "RM 144.95"
+      },
+      "image": {
+        "id": "64409517789544449",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409517789544449_1774080664.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409517789544449_128x174.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409517789544449_256x349.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409517789544449_1774080664.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409517789544449_1774080664.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409517789544449_1774080664.png?hash=1fe5872b3ca3c2a1c0cdc27244fc4c48"
+        }
+      }
+    },
+    {
+      "id": "44txNEQETPx",
+      "title": "iPhone 12 Pro Max 256GB",
+      "deposit": {
+        "value": 699,
+        "formatted": "699.00",
+        "text": "RM 699.00"
+      },
+      "amount": {
+        "value": 169.12,
+        "formatted": "169.12",
+        "text": "RM 169.12"
+      },
+      "image": {
+        "id": "64409519366602753",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409519366602753_1774080665.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409519366602753_128x174.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409519366602753_256x348.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409519366602753_1774080665.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409519366602753_1774080665.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409519366602753_1774080665.png?hash=a359910cf910f8508da5fdc9ad321c94"
+        }
+      }
+    },
+    {
+      "id": "PPmkM3axUxt",
+      "title": "iPhone 12 Pro Max 512GB",
+      "deposit": {
+        "value": 899,
+        "formatted": "899.00",
+        "text": "RM 899.00"
+      },
+      "amount": {
+        "value": 217.45,
+        "formatted": "217.45",
+        "text": "RM 217.45"
+      },
+      "image": {
+        "id": "64409520574562305",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409520574562305_1774080666.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409520574562305_128x173.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409520574562305_256x346.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409520574562305_1774080666.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409520574562305_1774080666.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409520574562305_1774080666.png?hash=3febd8dbe67d2ede2f75599d900795ad"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Objection Response Templates
+
+Use these templates to address common customer concerns and hesitations during the sales process.
+
+## Objection: "Too expensive"
+"I totally understand, {customer_name}! 💡 Here's the good news — we have options starting from just RM{min_price}/month. Plus with {plan_type}, there's no need for a huge upfront payment. Want me to show you our most affordable options that still pack a punch?"
+
+## Objection: "Not sure about installments/subscription"
+"That's a fair concern! Here's why our customers love it: 
+1. No huge upfront cost - keep your savings!
+2. You can upgrade anytime - stay ahead of the tech curve.
+3. Simple monthly payments - easy to budget.
+Think of it like a phone plan, but better! 📱"
+
+## Objection: "I prefer buying outright"
+"I get that! But here's something to consider — with our plans, you get the freedom to upgrade to the latest model whenever you want. No need to wait 2 years stuck with the same phone or worry about resale value! 🔄"
+
+## Objection: "Need to think about it"
+"Of course! Take all the time you need. I'll be right here whenever you're ready to chat again. You can also check out our website at goansuran-user-uat.web.app for more info and to browse at your own pace 😊"
+
+## Objection: "Worried about approval"
+"Don't worry! Our application process is simple and straightforward. {plan_specific_reassurance}. We've helped many people in similar situations get the tech they love. Want me to walk you through the steps?"
+
+---
+### Guidelines:
+- Always acknowledge the concern first (Empathy).
+- Pivot to a benefit (Value Proposition).
+- End with a low-pressure question (Call to Action).
+- {plan_specific_reassurance}: e.g., "For GoAngkasa, as long as you are a permanent civil servant, the process is very smooth."

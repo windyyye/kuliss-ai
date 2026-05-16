@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO Find N6",
+  "modelSlug": "oppo-find-n6",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1373.4,
+        "24_month": 737.51,
+        "36_month": 536.27,
+        "48_month": 428.12,
+        "60_month": 363.24,
+        "72_month": 319.98,
+        "84_month": 289.08,
+        "96_month": 265.91,
+        "108_month": 247.88,
+        "120_month": 233.46,
+        "144_month": 211.83,
+        "180_month": 190.21
+      }
+    }
+  ]
+}

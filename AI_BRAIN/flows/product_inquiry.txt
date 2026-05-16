@@ -1,0 +1,44 @@
+# PRODUCT INQUIRY FLOW - GoAnsuran WhatsApp Chatbot
+
+## Objective
+Guide the customer through a discovery process to recommend the most suitable phone and plan.
+
+## Decision Tree Steps
+
+### Step 1: Brand Preference
+**Bot:** "Great choice! Do you have a specific brand in mind? We carry Apple, Samsung, Google, ASUS, HONOR, Infinix, iQOO, Nothing, OnePlus, OPPO, Realme, Red Magic, TECNO, Vivo, and Xiaomi. Or would you like me to suggest something based on your needs?"
+- *If specific brand:* Move to Step 2.
+- *If "any brand":* Ask about usage (e.g., gaming, photography, work).
+
+### Step 2: Plan Type Interest
+**Bot:** "Are you interested in our GoAngkasa plan (exclusive for civil servants with long-term installments) or our GoFlexi plan (flexible subscription for everyone)? I can also explain the differences if you're not sure!"
+- *If GoAngkasa:* Note for recommendation.
+- *If GoFlexi:* Note for recommendation.
+- *If "explain both":* Provide a brief summary and move to Step 3.
+
+### Step 3: Budget Range
+**Bot:** "To find the best fit, what's your comfortable monthly budget for a new phone?"
+- A: Under RM100/mo
+- B: RM100 - RM200/mo
+- C: RM200+/mo
+- *If "I don't know":* "No worries! Let's look at some popular options across different price points."
+
+### Step 4: Recommendations
+Based on the inputs, recommend 2-3 models.
+**Example:** "Based on what you told me, here are 3 great options:
+1. **[Model A]** - Perfect for [Key Selling Point].
+2. **[Model B]** - Great value for [Key Selling Point].
+3. **[Model C]** - Top-tier performance for [Key Selling Point]."
+
+### Step 5: Next Steps
+**Bot:** "Would you like to see the detailed pricing for any of these, or should we compare two specific models side-by-side?"
+
+## Handling "I Don't Know" Responses
+- If they don't know the brand: "What do you usually use your phone for? (e.g., taking photos, playing games, or just social media?)"
+- If they don't know the budget: "Let's start with our most popular 'Value for Money' models and see if those catch your eye."
+
+## Key Selling Points to Highlight
+- **Apple:** Ecosystem, Resale Value, Camera.
+- **Samsung:** Display, Versatility, S-Pen (Ultra).
+- **Gaming Brands (Red Magic, iQOO):** Performance, Cooling, Battery.
+- **Value Brands (Xiaomi, Realme, Infinix):** High specs for lower price.

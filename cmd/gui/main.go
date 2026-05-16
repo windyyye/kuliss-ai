@@ -30,6 +30,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"message-go/frontend"
 	"message-go/internal/ai"
+	"message-go/internal/brain"
 	"message-go/internal/config"
 	"message-go/internal/db"
 	"message-go/internal/handler"
@@ -81,6 +82,7 @@ type BotService struct {
 	wailsApp	*application.App
 	running		bool
 	cfg		*config.Config
+	brain		*brain.Brain
 }
 
 func NewBotService(app *application.App) *BotService {
@@ -117,7 +119,7 @@ func (s *BotService) Start() (string, error) {
 		deviceStore = s.container.NewDevice()
 	}
 
-	aiClient := ai.NewClient(s.cfg.OllamaURL, s.cfg.OllamaModel)
+	aiClient := ai.NewClient(s.cfg.OllamaURL, s.cfg.OllamaModel, s.brain)
 	msgHandler := &handler.MessageHandler{
 		AI:	aiClient,
 		OnNewMessage: func(phone, role, text string) {
@@ -238,17 +240,23 @@ func (s *BotService) LogoutWhatsApp() error {
 }
 
 func (s *BotService) GetPrompt() string {
+	if s.brain != nil && s.brain.Loaded {
+		return s.brain.GetFullPrompt()
+	}
 	data, _ := os.ReadFile(config.DataPath("prompt.txt"))
 	return string(data)
 }
 
 func (s *BotService) SavePrompt(content string) error {
+	if s.brain != nil && s.brain.Loaded {
+		return brain.Reload(s.cfg.AIBrainPath, s.brain)
+	}
 	return os.WriteFile(config.DataPath("prompt.txt"), []byte(content), 0644)
 }
 
 func (s *BotService) TestPrompt(history []Message, message string) (string, error) {
 	cfg := config.Load()
-	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel)
+	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel, s.brain)
 
 	var mappedHistory []map[string]string
 
@@ -522,6 +530,15 @@ func main() {
 		db.Connect(cfg.DBType, cfg.DBURL)
 	}
 	log.Println("[4/6] Veritabanı bağlandı")
+
+	botService.cfg = cfg
+	b := brain.Load(cfg.AIBrainPath)
+	botService.brain = b
+	if b.Loaded {
+		log.Println("[4.5/6] AI_BRAIN loaded")
+	} else {
+		log.Println("[4.5/6] AI_BRAIN not found, using prompt.txt")
+	}
 
 	// ── 6. Pencere ────────────────────────────────────────────────────────────
 	log.Println("[5/6] Pencere oluşturuluyor...")

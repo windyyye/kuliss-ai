@@ -1,0 +1,42 @@
+GoAngkasa Pricing and Tenure Guide
+
+The GoAngkasa platform is specifically designed to provide flexible and affordable ownership options for Malaysian civil servants. Our pricing model is built on the principle of accessibility, offering a wide range of installment plans that allow users to manage their monthly commitments according to their financial capacity.
+
+Tenure Options:
+One of the most unique features of GoAngkasa is the extensive range of tenure options available. Unlike traditional telco or bank plans that usually limit installments to 24 or 36 months, GoAngkasa offers 12 distinct tenure periods:
+- Short-term: 12 months, 24 months
+- Mid-term: 36 months, 48 months, 60 months, 72 months
+- Long-term: 84 months, 96 months, 108 months, 120 months
+- Extended-term: 144 months, 180 months
+
+This flexibility ensures that even the most premium flagship devices can be owned with a very low monthly payment. The general rule is that a longer tenure results in a lower monthly installment, making high-end technology accessible to a broader range of government employees.
+
+Package Tiers:
+For every device and tenure combination, GoAngkasa provides three distinct package tiers to suit different user needs:
+
+1. Phone Only: This is the base package for users who only require the device itself. It offers the lowest possible monthly installment for that specific model and tenure.
+
+2. Phone + Accessories: This bundle is designed for users who want a complete out-of-the-box experience. It typically includes essential high-quality accessories such as a MagSafe-compatible case, a premium screen protector, a fast-charging adapter, and a high-capacity power bank. Bundling these items into the installment plan is often more cost-effective than purchasing them separately.
+
+3. Phone + Accessories + 2 Years Warranty: Our most comprehensive package. In addition to the accessories mentioned above, this tier includes a 2-year extended warranty. This provides peace of mind by protecting the user's investment against manufacturing defects and hardware failures for an extended period, which is particularly valuable for users choosing longer installment tenures.
+
+Pricing Structure:
+All prices are quoted in Malaysian Ringgit (MYR). The pricing data is structured in a standardized JSON format for each model, ensuring consistency across the platform. Each JSON file contains the brand, model, and a detailed breakdown of variants (storage capacities) and their respective installment plans for all three package types across all 12 tenures.
+
+Example JSON Logic:
+{
+  "model": "iPhone 17 Pro Max",
+  "brand": "Apple",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 947.12,
+        "180_month": 131.17
+      }
+    }
+  ]
+}
+
+By offering this level of granularity, GoAngkasa empowers civil servants to make informed decisions that best fit their lifestyle and budget.

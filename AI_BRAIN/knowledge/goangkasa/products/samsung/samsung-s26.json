@@ -1,0 +1,46 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung S26",
+  "modelSlug": "samsung-s26",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 694.51,
+        "24_month": 372.95,
+        "36_month": 271.19,
+        "48_month": 216.5,
+        "60_month": 183.69,
+        "72_month": 161.81,
+        "84_month": 146.19,
+        "96_month": 134.47,
+        "108_month": 125.35,
+        "120_month": 118.06,
+        "144_month": 107.12,
+        "180_month": 96.18
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 820.82,
+        "24_month": 440.77,
+        "36_month": 320.5,
+        "48_month": 255.87,
+        "60_month": 217.09,
+        "72_month": 191.24,
+        "84_month": 172.77,
+        "96_month": 158.92,
+        "108_month": 148.15,
+        "120_month": 139.53,
+        "144_month": 126.6,
+        "180_month": 113.68
+      }
+    }
+  ]
+}

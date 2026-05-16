@@ -1,0 +1,43 @@
+{
+  "model": "iPad 10 WiFi",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "ztwETnf4jGfk",
+      "title": "iPad 10 64GB WiFi",
+      "deposit": {
+        "value": 255,
+        "formatted": "255.00",
+        "text": "RM 255.00"
+      },
+      "amount": {
+        "value": 72.12,
+        "formatted": "72.12",
+        "text": "RM 72.12"
+      },
+      "image": {
+        "id": "68289450618126337",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289450618126337_1776393284.jpg?hash=58751343036716a2dd6362ee249e25da"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289450618126337_128x128.jpg?hash=58751343036716a2dd6362ee249e25da"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289450618126337_256x256.jpg?hash=58751343036716a2dd6362ee249e25da"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289450618126337_512x512.jpg?hash=58751343036716a2dd6362ee249e25da"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289450618126337_1024x1024.jpg?hash=58751343036716a2dd6362ee249e25da"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289450618126337_1776393284.jpg?hash=58751343036716a2dd6362ee249e25da"
+        }
+      }
+    }
+  ]
+}

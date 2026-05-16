@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 16e",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "CCqFnra9zfi",
+      "title": "iPhone 16e 128GB",
+      "deposit": {
+        "value": 599,
+        "formatted": "599.00",
+        "text": "RM 599.00"
+      },
+      "amount": {
+        "value": 144.95,
+        "formatted": "144.95",
+        "text": "RM 144.95"
+      },
+      "image": {
+        "id": "64409446536708097",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409446536708097_1774080621.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409446536708097_128x154.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409446536708097_256x308.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409446536708097_1774080621.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409446536708097_1774080621.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409446536708097_1774080621.png?hash=14c06683dfa536eb7225d9d79bac4eba"
+        }
+      }
+    },
+    {
+      "id": "44txiP7RMzx",
+      "title": "iPhone 16e 256GB",
+      "deposit": {
+        "value": 699,
+        "formatted": "699.00",
+        "text": "RM 699.00"
+      },
+      "amount": {
+        "value": 169.12,
+        "formatted": "169.12",
+        "text": "RM 169.12"
+      },
+      "image": {
+        "id": "64409447828553729",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409447828553729_1774080622.png?hash=f5532ed686103b710fe2f160d38200f6"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409447828553729_128x154.png?hash=f5532ed686103b710fe2f160d38200f6"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409447828553729_256x308.png?hash=f5532ed686103b710fe2f160d38200f6"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409447828553729_1774080622.png?hash=f5532ed686103b710fe2f160d38200f6"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409447828553729_1774080622.png?hash=f5532ed686103b710fe2f160d38200f6"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409447828553729_1774080622.png?hash=f5532ed686103b710fe2f160d38200f6"
+        }
+      }
+    },
+    {
+      "id": "NNdze96Lxjz",
+      "title": "iPhone 16e 512GB",
+      "deposit": {
+        "value": 899,
+        "formatted": "899.00",
+        "text": "RM 899.00"
+      },
+      "amount": {
+        "value": 217.45,
+        "formatted": "217.45",
+        "text": "RM 217.45"
+      },
+      "image": {
+        "id": "64409449103622145",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409449103622145_1774080623.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409449103622145_128x154.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409449103622145_256x308.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409449103622145_1774080623.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409449103622145_1774080623.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409449103622145_1774080623.png?hash=9cf00517d61e25129c9f9782c8fe6d61"
+        }
+      }
+    }
+  ]
+}

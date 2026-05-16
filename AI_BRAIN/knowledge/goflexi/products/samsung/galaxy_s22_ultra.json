@@ -1,0 +1,117 @@
+{
+  "model": "Galaxy S22 Ultra",
+  "brand": "Samsung",
+  "variants": [
+    {
+      "id": "tJxhbyh7MzM6",
+      "title": "Galaxy S22 Ultra 256GB",
+      "deposit": {
+        "value": 719,
+        "formatted": "719.00",
+        "text": "RM 719.00"
+      },
+      "amount": {
+        "value": 173.95,
+        "formatted": "173.95",
+        "text": "RM 173.95"
+      },
+      "image": {
+        "id": "68289471522537473",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289471522537473_1776393298.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289471522537473_128x128.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289471522537473_256x256.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289471522537473_1776393298.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289471522537473_1776393298.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289471522537473_1776393298.jpg?hash=267b6d8f8194e50a1246004f2e4a6394"
+        }
+      }
+    },
+    {
+      "id": "ewCM4HpMcQaq",
+      "title": "Galaxy S22 Ultra 512GB",
+      "deposit": {
+        "value": 799,
+        "formatted": "799.00",
+        "text": "RM 799.00"
+      },
+      "amount": {
+        "value": 193.29,
+        "formatted": "193.29",
+        "text": "RM 193.29"
+      },
+      "image": {
+        "id": "68289474592768001",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289474592768001_1776393300.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289474592768001_128x128.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289474592768001_256x256.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289474592768001_1776393300.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289474592768001_1776393300.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289474592768001_1776393300.jpg?hash=d8c182245d40394847e25c1ae0c2f3dc"
+        }
+      }
+    },
+    {
+      "id": "4XEynm4tX8fX",
+      "title": "Galaxy S22 Ultra 1TB",
+      "deposit": {
+        "value": 1039,
+        "formatted": "1,039.00",
+        "text": "RM 1,039.00"
+      },
+      "amount": {
+        "value": 251.29,
+        "formatted": "251.29",
+        "text": "RM 251.29"
+      },
+      "image": {
+        "id": "68289477662998529",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289477662998529_1776393301.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289477662998529_128x128.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289477662998529_256x256.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289477662998529_1776393301.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289477662998529_1776393301.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289477662998529_1776393301.jpg?hash=cf67a8cd023da5a647c8b24038610f26"
+        }
+      }
+    }
+  ]
+}

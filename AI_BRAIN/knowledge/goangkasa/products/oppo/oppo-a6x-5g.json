@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO A6x 5G",
+  "modelSlug": "oppo-a6x-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 157.72,
+        "24_month": 84.7,
+        "36_month": 61.59,
+        "48_month": 49.17,
+        "60_month": 41.71,
+        "72_month": 36.75,
+        "84_month": 33.2,
+        "96_month": 30.54,
+        "108_month": 28.47,
+        "120_month": 26.81,
+        "144_month": 24.33,
+        "180_month": 21.84
+      }
+    }
+  ]
+}

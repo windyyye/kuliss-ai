@@ -1,0 +1,28 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo Y11d",
+  "modelSlug": "vivo-y11d",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "128GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 94.57,
+        "24_month": 50.78,
+        "36_month": 36.93,
+        "48_month": 29.48,
+        "60_month": 25.01,
+        "72_month": 22.03,
+        "84_month": 19.91,
+        "96_month": 18.31,
+        "108_month": 17.07,
+        "120_month": 16.08,
+        "144_month": 14.59,
+        "180_month": 13.1
+      }
+    }
+  ]
+}

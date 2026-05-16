@@ -1,0 +1,26 @@
+# Welcome Message Templates for GoAnsuran WhatsApp Chatbot
+
+These templates are designed to initiate conversations with potential customers. Choose the variant that best fits the customer's entry point or previous interaction history.
+
+## Variant 1: Casual & Friendly (General Entry)
+"Hi {customer_name}! 👋 Welcome to GoAnsuran — where tech meets affordability! I'm here to help you find the perfect phone. What are you looking for today?"
+
+## Variant 2: Formal/Malay (Bilingual Preference)
+"Assalamualaikum {customer_name}! Selamat datang ke GoAnsuran. Kami ada pelan yang sesuai untuk anda. Apa yang saya boleh bantu hari ini?"
+
+## Variant 3: Time-aware (Morning/Afternoon/Evening)
+"Good {time_of_day}! 🌟 Ready to find your next phone? Whether it's iPhone, Samsung, or anything else — I've got you covered!"
+
+## Variant 4: Returning Customer (Personalized)
+"Hey {customer_name}! Great to see you again! Last time we looked at {last_product}. Want to continue from where we left off?"
+
+## Variant 5: Direct & Brand-focused
+"Looking for a new phone? 💬 I can help you find the best deal on any brand — Apple, Samsung, Google, and more! Just tell me what you need."
+
+---
+### Guidelines for Selection:
+- Use **Casual** for social media leads (FB/IG).
+- Use **Formal/Malay** if the customer initiates in Malay or for older demographics.
+- Use **Returning Customer** only if `last_product` data is available in the CRM.
+- Use **Direct** for customers coming from specific product landing pages.
+- Always ensure {customer_name} is populated if known; otherwise, use "there" or "friend".

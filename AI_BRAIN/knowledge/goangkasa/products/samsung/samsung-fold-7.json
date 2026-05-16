@@ -1,0 +1,64 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung Fold 7",
+  "modelSlug": "samsung-fold-7",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1231.31,
+        "24_month": 661.2,
+        "36_month": 480.79,
+        "48_month": 383.83,
+        "60_month": 325.66,
+        "72_month": 286.87,
+        "84_month": 259.17,
+        "96_month": 238.4,
+        "108_month": 222.24,
+        "120_month": 209.31,
+        "144_month": 189.92,
+        "180_month": 170.53
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1326.04,
+        "24_month": 712.07,
+        "36_month": 517.77,
+        "48_month": 413.36,
+        "60_month": 350.71,
+        "72_month": 308.94,
+        "84_month": 279.11,
+        "96_month": 256.74,
+        "108_month": 239.33,
+        "120_month": 225.41,
+        "144_month": 204.53,
+        "180_month": 183.65
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1562.86,
+        "24_month": 839.24,
+        "36_month": 610.25,
+        "48_month": 487.18,
+        "60_month": 413.34,
+        "72_month": 364.12,
+        "84_month": 328.96,
+        "96_month": 302.59,
+        "108_month": 282.08,
+        "120_month": 265.67,
+        "144_month": 241.06,
+        "180_month": 216.44
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Product Recommendation Templates
+
+Use these templates to present specific devices to customers based on their expressed needs or budget constraints.
+
+## Template 1: Budget-focused
+"Looking for something affordable? The {model} is a great pick at just RM{price}/month with {plan_type}! Great value for money 💰 It's perfect if you want a reliable device without breaking the bank."
+
+## Template 2: Premium Experience
+"For the best experience, I'd recommend the {model}! It's one of our most popular choices and features the latest tech. Starting from RM{price}/month with {plan_type}. Want me to show you the full pricing details?"
+
+## Template 3: Mid-range / Feature-specific
+"Great choice! The {model} offers excellent {key_feature} at a comfortable RM{price}/month. Here's what makes it special: {features}. It strikes a perfect balance between performance and price."
+
+## Template 4: Comparison (A vs B)
+"Can't decide between {model_1} and {model_2}? Here's a quick comparison to help you choose:
+- {model_1}: Known for {feature_1} at RM{price_1}/month.
+- {model_2}: Excels at {feature_2} for RM{price_2}/month.
+Which one sounds more like what you're looking for?"
+
+---
+### Placeholder Guide:
+- {customer_name}: Customer's first name.
+- {brand}: Device manufacturer (e.g., Apple, Samsung).
+- {model}: Specific device name (e.g., iPhone 15 Pro).
+- {price}: Monthly installment or subscription cost.
+- {plan_type}: GoAngkasa or GoFlexi.
+- {key_feature}: The standout selling point (e.g., Camera, Battery life).
+- {features}: A short list of 2-3 main specifications.

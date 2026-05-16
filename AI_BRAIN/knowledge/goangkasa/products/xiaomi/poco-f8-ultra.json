@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "POCO F8 Ultra",
+  "modelSlug": "poco-f8-ultra",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 457.69,
+        "24_month": 245.78,
+        "36_month": 178.72,
+        "48_month": 142.68,
+        "60_month": 121.05,
+        "72_month": 106.64,
+        "84_month": 96.34,
+        "96_month": 88.62,
+        "108_month": 82.61,
+        "120_month": 77.8,
+        "144_month": 70.6,
+        "180_month": 63.35
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 520.85,
+        "24_month": 279.69,
+        "36_month": 203.37,
+        "48_month": 162.36,
+        "60_month": 137.75,
+        "72_month": 121.35,
+        "84_month": 109.63,
+        "96_month": 100.84,
+        "108_month": 94.01,
+        "120_month": 88.54,
+        "144_month": 80.34,
+        "180_month": 72.13
+      }
+    }
+  ]
+}

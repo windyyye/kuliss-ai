@@ -1,0 +1,43 @@
+{
+  "model": "iPad Mini 6 WiFi",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "CijUEKLcbGhX",
+      "title": "iPad Mini 6 256GB WiFi",
+      "deposit": {
+        "value": 594,
+        "formatted": "594.00",
+        "text": "RM 594.00"
+      },
+      "amount": {
+        "value": 134.15,
+        "formatted": "134.15",
+        "text": "RM 134.15"
+      },
+      "image": {
+        "id": "68289454158118913",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289454158118913_1776393286.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289454158118913_128x128.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289454158118913_256x256.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289454158118913_512x512.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289454158118913_1776393286.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289454158118913_1776393286.jpg?hash=7f5ab4c1c49b167f4dd52f1925e7dd77"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "REDMI 15 5C",
+  "modelSlug": "redmi-15-5c",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 83.52,
+        "24_month": 44.85,
+        "36_month": 32.61,
+        "48_month": 26.03,
+        "60_month": 22.09,
+        "72_month": 19.46,
+        "84_month": 17.58,
+        "96_month": 16.17,
+        "108_month": 15.07,
+        "120_month": 14.2,
+        "144_month": 12.88,
+        "180_month": 11.57
+      }
+    }
+  ]
+}

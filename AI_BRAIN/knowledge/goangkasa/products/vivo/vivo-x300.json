@@ -1,0 +1,46 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo X300",
+  "modelSlug": "vivo-x300",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 499.69,
+        "24_month": 268.33,
+        "36_month": 195.11,
+        "48_month": 155.77,
+        "60_month": 132.16,
+        "72_month": 116.42,
+        "84_month": 105.18,
+        "96_month": 96.75,
+        "108_month": 90.19,
+        "120_month": 84.94,
+        "144_month": 77.07,
+        "180_month": 69.2
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 615.57,
+        "24_month": 330.56,
+        "36_month": 240.36,
+        "48_month": 191.89,
+        "60_month": 162.81,
+        "72_month": 143.42,
+        "84_month": 129.57,
+        "96_month": 119.18,
+        "108_month": 111.1,
+        "120_month": 104.64,
+        "144_month": 94.95,
+        "180_month": 85.25
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+GoAnsuran Terms and Conditions Reference
+
+IMPORTANT NOTICE:
+This document is DRAFT REFERENCE CONTENT prepared for the GoAnsuran chatbot's knowledge base. It is NOT the official Terms and Conditions of GoAnsuran. For official and legally binding terms, please refer to GoAnsuran's actual Terms and Conditions page at https://goansuran-user-uat.web.app/ or contact the GoAnsuran team directly. The information below is provided as general guidance only and should not be presented as official legal terms to customers.
+
+========================================
+SUBSCRIPTION AND INSTALLMENT AGREEMENT
+========================================
+
+General Principles:
+- By subscribing to GoFlexi or applying for GoAngkasa, the customer enters into an agreement with GoAnsuran for the use or eventual ownership of a device through structured payments.
+- The specific terms, including payment amounts, tenure, and conditions, are detailed in the individual agreement provided to each customer upon approval.
+- Customers are encouraged to read their specific agreement thoroughly before accepting.
+
+========================================
+DEVICE OWNERSHIP
+========================================
+
+During the Subscription/Installment Period:
+- The customer has full possession and use of the device throughout the payment period.
+- For GoFlexi (subscription model), ownership details may vary based on the specific subscription agreement. Customers should refer to their individual agreement for ownership terms.
+- For GoAngkasa (installment plan), the device is being purchased through installment payments. Ownership transfer details are specified in the individual agreement.
+
+Device Condition:
+- Customers are expected to maintain the device in good working condition throughout the agreement period.
+- Damage beyond normal wear and tear may affect trade-in value or result in additional charges.
+
+========================================
+UPGRADE AND TRADE-IN CONDITIONS
+========================================
+
+GoFlexi Upgrades:
+- GoFlexi subscribers may trade in their current device for a newer model.
+- Trade-in value is assessed based on the device's condition, age, and current market value.
+- The trade-in process must be coordinated through the GoAnsuran team.
+- Any outstanding subscription balance may be factored into the upgrade terms.
+
+GoAngkasa Upgrades:
+- Upgrade options for GoAngkasa may be available depending on the customer's current agreement status and remaining tenure.
+- Customers should contact the GoAnsuran team to discuss upgrade possibilities.
+
+========================================
+PAYMENT OBLIGATIONS
+========================================
+
+General Payment Terms:
+- Customers are required to make all payments (deposits, monthly installments, or subscription fees) on or before the due date.
+- Payment methods and schedules are specified in the individual agreement.
+- For GoAngkasa, salary deduction arrangements may be available for qualifying civil servants.
+
+Missed or Late Payments:
+- Late or missed payments may result in additional fees or charges as outlined in the specific agreement.
+- Persistent non-payment may lead to suspension of services, device recovery procedures, or other actions as permitted by the agreement.
+- Customers experiencing payment difficulties are encouraged to contact the GoAnsuran team proactively to discuss available options.
+
+========================================
+WARRANTY COVERAGE
+========================================
+
+Standard Manufacturer Warranty:
+- All devices come with the manufacturer's standard warranty applicable in Malaysia.
+- Warranty terms are governed by the manufacturer's warranty policy.
+
+GoAngkasa Extended Warranty (Phone + Accessories + 2 Years Warranty Package):
+- This package includes a 2-year extended warranty covering manufacturing defects and hardware failures.
+- The warranty does not cover physical damage, water damage, unauthorized modifications, or normal wear and tear.
+- Warranty claims must be submitted through the GoAnsuran support channel.
+
+========================================
+DEVICE RETURN CONDITIONS
+========================================
+
+- Device return conditions vary by plan and are detailed in the individual agreement.
+- Returns (if applicable) must be coordinated through the GoAnsuran team.
+- The device must be returned in the condition specified in the agreement, which typically includes all original accessories and packaging.
+- Failure to return the device as required may result in additional charges.
+
+========================================
+CUSTOMER RESPONSIBILITIES
+========================================
+
+- Provide accurate and truthful information during the application process.
+- Maintain valid contact information with GoAnsuran.
+- Report any device issues or changes in circumstances promptly.
+- Comply with all terms outlined in the individual subscription or installment agreement.
+- Contact GoAnsuran for any disputes or concerns rather than discontinuing payments.
+
+========================================
+MODIFICATIONS AND TERMINATION
+========================================
+
+- GoAnsuran reserves the right to modify terms for future agreements.
+- Existing agreements are governed by the terms in effect at the time of signing.
+- Early termination conditions, if any, are specified in the individual agreement.
+- Customers should review their specific agreement for early termination provisions.
+
+REITERATION:
+This is a DRAFT REFERENCE document for chatbot knowledge only. Always direct customers to the official GoAnsuran Terms and Conditions for binding information. When in doubt, advise the customer to contact the GoAnsuran team for clarification on any terms.

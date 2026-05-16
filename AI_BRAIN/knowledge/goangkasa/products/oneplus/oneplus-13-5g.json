@@ -1,0 +1,28 @@
+{
+  "brand": "OnePlus",
+  "brandSlug": "oneplus",
+  "model": "OnePlus 13 5G",
+  "modelSlug": "oneplus-13-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 615.57,
+        "24_month": 330.56,
+        "36_month": 240.36,
+        "48_month": 191.89,
+        "60_month": 162.81,
+        "72_month": 143.42,
+        "84_month": 129.57,
+        "96_month": 119.18,
+        "108_month": 111.1,
+        "120_month": 104.64,
+        "144_month": 94.95,
+        "180_month": 85.25
+      }
+    }
+  ]
+}

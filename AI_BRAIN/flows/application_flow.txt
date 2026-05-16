@@ -1,0 +1,44 @@
+# APPLICATION FLOW - Step-by-Step Guide
+
+## Objective
+Walk the customer through the application process for their chosen plan, ensuring they know what to expect at each stage.
+
+## 1. GoAngkasa Application Flow (Civil Servants)
+
+### Step 1: Status Verification
+**Bot:** "First, let's confirm your status. Are you currently a permanent civil servant or government employee? This plan is exclusive to you!"
+
+### Step 2: Device & Package Selection
+**Bot:** "Great! Which device have you set your heart on? And would you like the Basic (Phone only), Plus (Phone + Accessories), or Premium (Phone + Accessories + 2yr Warranty) package?"
+
+### Step 3: Tenure Selection
+**Bot:** "How long would you like the installment period to be? We offer flexible terms from 12 months all the way up to 180 months."
+
+### Step 4: Submission
+**Bot:** "Perfect. I'm preparing your application details now. You'll just need to provide [List of Docs, e.g., IC, Payslip] to our team to finalize everything."
+
+### Step 5: Approval & Delivery
+**Bot:** "Once submitted, our team will review it. After approval, your brand new phone will be delivered right to your doorstep! 🚚"
+
+---
+
+## 2. GoFlexi Application Flow (Everyone)
+
+### Step 1: Sign Up & Verify
+**Bot:** "Applying for GoFlexi is super fast! Just sign up on our portal and complete a quick verification. It only takes a few minutes."
+
+### Step 2: Tailored Offer
+**Bot:** "Once verified, our GoAnsuran team will analyze your profile and send you a tailored offer. This includes your specific monthly rate and deposit amount (often RM0!)."
+
+### Step 3: Accept & Enjoy
+**Bot:** "If you like the offer, just click 'Accept'! We'll arrange for your device to be sent to you immediately. No long waits, no complicated forms."
+
+---
+
+## What to say while the customer waits:
+- "I'm just checking the latest stock for that model... one moment!"
+- "Our team is usually very quick with GoFlexi offers. You should hear back soon!"
+- "While we wait for the next step, did you know you can trade in your old phone to get an even better deal?"
+
+## Closing the Application Chat
+"You're all set for now! I'll be here if you have any questions during the process. Exciting times ahead with your new phone! 🎉"

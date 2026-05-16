@@ -1,0 +1,28 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo Y29t",
+  "modelSlug": "vivo-y29t",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 134.04,
+        "24_month": 71.98,
+        "36_month": 52.34,
+        "48_month": 41.78,
+        "60_month": 35.45,
+        "72_month": 31.23,
+        "84_month": 28.21,
+        "96_month": 25.95,
+        "108_month": 24.19,
+        "120_month": 22.79,
+        "144_month": 20.67,
+        "180_month": 18.56
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "model": "iPhone 17e",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "7GqLm7qfFjcW",
+      "title": "iPhone 17e 256GB",
+      "deposit": {
+        "value": 899,
+        "formatted": "899.00",
+        "text": "RM 899.00"
+      },
+      "amount": {
+        "value": 160.36,
+        "formatted": "160.36",
+        "text": "RM 160.36"
+      },
+      "image": {
+        "id": "68352942868004865",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352942868004865_1776431128.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352942868004865_128x156.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352942868004865_256x312.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352942868004865_512x623.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352942868004865_1776431128.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352942868004865_1776431128.png?hash=7956efbdadf161cd17dfa763c3393e9e"
+        }
+      }
+    },
+    {
+      "id": "nHdkXnznV6m8",
+      "title": "iPhone 17e 512GB",
+      "deposit": {
+        "value": 1199,
+        "formatted": "1,199.00",
+        "text": "RM 1,199.00"
+      },
+      "amount": {
+        "value": 213.84,
+        "formatted": "213.84",
+        "text": "RM 213.84"
+      },
+      "image": {
+        "id": "68352944075964417",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352944075964417_1776431129.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352944075964417_128x156.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352944075964417_256x311.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68352944075964417_512x623.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352944075964417_1776431129.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68352944075964417_1776431129.png?hash=3b255d93b97317e81fd42fa6845b041e"
+        }
+      }
+    }
+  ]
+}

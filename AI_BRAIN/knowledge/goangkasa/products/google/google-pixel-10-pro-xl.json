@@ -1,0 +1,64 @@
+{
+  "brand": "Google",
+  "brandSlug": "google",
+  "model": "Google Pixel 10 Pro XL",
+  "modelSlug": "google-pixel-10-pro-xl",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 710.3,
+        "24_month": 381.43,
+        "36_month": 277.35,
+        "48_month": 221.42,
+        "60_month": 187.86,
+        "72_month": 165.49,
+        "84_month": 149.51,
+        "96_month": 137.52,
+        "108_month": 128.2,
+        "120_month": 120.74,
+        "144_month": 109.56,
+        "180_month": 98.37
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 805.03,
+        "24_month": 432.3,
+        "36_month": 314.34,
+        "48_month": 250.95,
+        "60_month": 212.91,
+        "72_month": 187.56,
+        "84_month": 169.45,
+        "96_month": 155.86,
+        "108_month": 145.3,
+        "120_month": 136.85,
+        "144_month": 124.17,
+        "180_month": 111.49
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 994.49,
+        "24_month": 534.03,
+        "36_month": 388.32,
+        "48_month": 310.01,
+        "60_month": 263.02,
+        "72_month": 231.7,
+        "84_month": 209.32,
+        "96_month": 192.54,
+        "108_month": 179.49,
+        "120_month": 169.05,
+        "144_month": 153.39,
+        "180_month": 137.73
+      }
+    }
+  ]
+}

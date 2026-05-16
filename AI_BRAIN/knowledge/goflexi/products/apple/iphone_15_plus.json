@@ -1,0 +1,80 @@
+{
+  "model": "iPhone 15 Plus",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "ff4Ecanemyj",
+      "title": "iPhone 15 Plus 128GB",
+      "deposit": {
+        "value": 699,
+        "formatted": "699.00",
+        "text": "RM 699.00"
+      },
+      "amount": {
+        "value": 169.12,
+        "formatted": "169.12",
+        "text": "RM 169.12"
+      },
+      "image": {
+        "id": "64409462827384833",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409462827384833_1774080632.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409462827384833_128x170.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409462827384833_256x340.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409462827384833_1774080632.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409462827384833_1774080632.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409462827384833_1774080632.png?hash=22a4a50e14d79a7ad8edcb641c5dd267"
+        }
+      }
+    },
+    {
+      "id": "nnbcYMGKeB8",
+      "title": "iPhone 15 Plus 256GB",
+      "deposit": {
+        "value": 799,
+        "formatted": "799.00",
+        "text": "RM 799.00"
+      },
+      "amount": {
+        "value": 193.29,
+        "formatted": "193.29",
+        "text": "RM 193.29"
+      },
+      "image": {
+        "id": "64409465847283713",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409465847283713_1774080633.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409465847283713_128x170.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409465847283713_256x340.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409465847283713_1774080633.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409465847283713_1774080633.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409465847283713_1774080633.png?hash=e2da706ca6d985cd55348d6f9aae8db1"
+        }
+      }
+    }
+  ]
+}

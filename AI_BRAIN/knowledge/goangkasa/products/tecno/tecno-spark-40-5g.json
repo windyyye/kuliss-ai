@@ -1,0 +1,28 @@
+{
+  "brand": "TECNO",
+  "brandSlug": "tecno",
+  "model": "TECNO Spark 40 5G",
+  "modelSlug": "tecno-spark-40-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 118.25,
+        "24_month": 63.5,
+        "36_month": 46.17,
+        "48_month": 36.86,
+        "60_month": 31.28,
+        "72_month": 27.55,
+        "84_month": 24.89,
+        "96_month": 22.9,
+        "108_month": 21.34,
+        "120_month": 20.1,
+        "144_month": 18.24,
+        "180_month": 16.38
+      }
+    }
+  ]
+}

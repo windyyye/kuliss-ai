@@ -1,0 +1,46 @@
+{
+  "brand": "Google",
+  "brandSlug": "google",
+  "model": "Google Pixel 10",
+  "modelSlug": "google-pixel-10",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "128GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 473.48,
+        "24_month": 254.26,
+        "36_month": 184.88,
+        "48_month": 147.6,
+        "60_month": 125.23,
+        "72_month": 110.31,
+        "84_month": 99.66,
+        "96_month": 91.67,
+        "108_month": 85.46,
+        "120_month": 80.49,
+        "144_month": 73.03,
+        "180_month": 65.57
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 552.42,
+        "24_month": 296.65,
+        "36_month": 215.7,
+        "48_month": 172.2,
+        "60_month": 146.1,
+        "72_month": 128.71,
+        "84_month": 116.28,
+        "96_month": 106.96,
+        "108_month": 99.71,
+        "120_month": 93.91,
+        "144_month": 85.21,
+        "180_month": 76.51
+      }
+    }
+  ]
+}

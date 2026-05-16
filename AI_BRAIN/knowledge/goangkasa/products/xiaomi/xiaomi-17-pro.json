@@ -1,0 +1,64 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "Xiaomi 17 Pro",
+  "modelSlug": "xiaomi-17-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 631.36,
+        "24_month": 339.04,
+        "36_month": 246.53,
+        "48_month": 196.81,
+        "60_month": 166.98,
+        "72_month": 147.1,
+        "84_month": 132.85,
+        "96_month": 122.24,
+        "108_month": 113.95,
+        "120_month": 107.32,
+        "144_month": 97.38,
+        "180_month": 87.44
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 678.73,
+        "24_month": 364.47,
+        "36_month": 265.02,
+        "48_month": 211.58,
+        "60_month": 179.51,
+        "72_month": 158.13,
+        "84_month": 142.86,
+        "96_month": 131.41,
+        "108_month": 122.5,
+        "120_month": 115.38,
+        "144_month": 104.65,
+        "180_month": 94
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 757.67,
+        "24_month": 406.86,
+        "36_month": 295.84,
+        "48_month": 236.18,
+        "60_month": 200.39,
+        "72_month": 176.52,
+        "84_month": 159.48,
+        "96_month": 146.65,
+        "108_month": 136.75,
+        "120_month": 128.8,
+        "144_month": 116.86,
+        "180_month": 104.93
+      }
+    }
+  ]
+}

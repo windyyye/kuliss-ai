@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO Find 9",
+  "modelSlug": "oppo-find-9",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 584,
+        "24_month": 313.6,
+        "36_month": 228.03,
+        "48_month": 182.05,
+        "60_month": 154.46,
+        "72_month": 136.06,
+        "84_month": 122.92,
+        "96_month": 113.07,
+        "108_month": 105.4,
+        "120_month": 99.27,
+        "144_month": 90.08,
+        "180_month": 80.88
+      }
+    }
+  ]
+}

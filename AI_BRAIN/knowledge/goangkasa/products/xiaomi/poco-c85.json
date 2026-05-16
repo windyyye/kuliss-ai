@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "POCO C85",
+  "modelSlug": "poco-c85",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "128GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 69.31,
+        "24_month": 37.22,
+        "36_month": 27.06,
+        "48_month": 21.61,
+        "60_month": 18.33,
+        "72_month": 16.15,
+        "84_month": 14.59,
+        "96_month": 13.42,
+        "108_month": 12.51,
+        "120_month": 11.78,
+        "144_month": 10.65,
+        "180_month": 9.6
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 81.94,
+        "24_month": 44,
+        "36_month": 31.99,
+        "48_month": 25.54,
+        "60_month": 21.67,
+        "72_month": 19.05,
+        "84_month": 17.25,
+        "96_month": 15.86,
+        "108_month": 14.75,
+        "120_month": 13.93,
+        "144_month": 12.64,
+        "180_month": 11.35
+      }
+    }
+  ]
+}

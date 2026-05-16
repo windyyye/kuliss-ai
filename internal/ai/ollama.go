@@ -12,11 +12,14 @@ import (
 	"regexp"
 	"strings"
 	"time"
+
+	"message-go/internal/brain"
 )
 
 type Client struct {
 	BaseURL	string
 	Model	string
+	Brain	*brain.Brain
 }
 
 type chatRequest struct {
@@ -42,8 +45,8 @@ type chatResponse struct {
 	Message Message `json:"message"`
 }
 
-func NewClient(baseURL, model string) *Client {
-	return &Client{BaseURL: baseURL, Model: model}
+func NewClient(baseURL, model string, b *brain.Brain) *Client {
+	return &Client{BaseURL: baseURL, Model: model, Brain: b}
 }
 
 var thinkRegex = regexp.MustCompile(`(?s)<\|channel>.*?<channel\|>`)
@@ -59,17 +62,23 @@ func (c *Client) Chat(history []map[string]string, userMessage string) (string, 
 
 	var messages []Message
 
-	execPath, _ := os.Executable()
-	promptPath := filepath.Join(filepath.Dir(execPath), "prompt.txt")
-
-	promptBytes, err := os.ReadFile(promptPath)
-	if err != nil {
-		promptBytes, err = os.ReadFile("prompt.txt")
+	var systemPrompt string
+	if c.Brain != nil {
+		systemPrompt = c.Brain.AssemblePrompt(userMessage)
 	}
+	if systemPrompt == "" {
+		execPath, _ := os.Executable()
+		promptPath := filepath.Join(filepath.Dir(execPath), "prompt.txt")
 
-	systemPrompt := "Sen bir yapay zeka asistanısın."
-	if err == nil {
-		systemPrompt = string(promptBytes)
+		promptBytes, err := os.ReadFile(promptPath)
+		if err != nil {
+			promptBytes, err = os.ReadFile("prompt.txt")
+		}
+
+		systemPrompt = "Sen bir yapay zeka asistanısın."
+		if err == nil {
+			systemPrompt = string(promptBytes)
+		}
 	}
 
 	messages = append(messages, Message{

@@ -1,0 +1,43 @@
+{
+  "model": "A6t",
+  "brand": "Oppo",
+  "variants": [
+    {
+      "id": "BAtXkVMcNApW",
+      "title": "A6t 5G 256GB",
+      "deposit": {
+        "value": 219,
+        "formatted": "219.00",
+        "text": "RM 219.00"
+      },
+      "amount": {
+        "value": 53.12,
+        "formatted": "53.12",
+        "text": "RM 53.12"
+      },
+      "image": {
+        "id": "68289484273221633",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289484273221633_1776393304.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289484273221633_128x128.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289484273221633_256x256.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289484273221633_512x512.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289484273221633_1776393304.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289484273221633_1776393304.jpg?hash=a6bd4af7963d5e058176befc63f4b609"
+        }
+      }
+    }
+  ]
+}

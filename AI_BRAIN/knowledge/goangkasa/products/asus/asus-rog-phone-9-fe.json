@@ -1,0 +1,28 @@
+{
+  "brand": "Asus",
+  "brandSlug": "asus",
+  "model": "Asus ROG Phone 9 FE",
+  "modelSlug": "asus-rog-phone-9-fe",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 362.97,
+        "24_month": 194.91,
+        "36_month": 141.73,
+        "48_month": 113.15,
+        "60_month": 96,
+        "72_month": 84.57,
+        "84_month": 76.4,
+        "96_month": 70.27,
+        "108_month": 65.51,
+        "120_month": 61.7,
+        "144_month": 55.98,
+        "180_month": 50.27
+      }
+    }
+  ]
+}

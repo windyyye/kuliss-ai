@@ -1,0 +1,46 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung S25 FE",
+  "modelSlug": "samsung-s25-fe",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 441.91,
+        "24_month": 237.3,
+        "36_month": 172.55,
+        "48_month": 137.75,
+        "60_month": 116.88,
+        "72_month": 102.96,
+        "84_month": 93.01,
+        "96_month": 85.56,
+        "108_month": 79.76,
+        "120_month": 75.12,
+        "144_month": 68.16,
+        "180_month": 61.2
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 489.27,
+        "24_month": 262.74,
+        "36_month": 191.04,
+        "48_month": 152.52,
+        "60_month": 129.4,
+        "72_month": 113.99,
+        "84_month": 102.98,
+        "96_month": 94.73,
+        "108_month": 88.31,
+        "120_month": 83.17,
+        "144_month": 75.47,
+        "180_month": 67.76
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO Find N5",
+  "modelSlug": "oppo-find-n5",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1105,
+        "24_month": 593.38,
+        "36_month": 431.47,
+        "48_month": 344.46,
+        "60_month": 292.25,
+        "72_month": 257.45,
+        "84_month": 232.59,
+        "96_month": 213.94,
+        "108_month": 199.44,
+        "120_month": 187.84,
+        "144_month": 170.44,
+        "180_month": 153.03
+      }
+    }
+  ]
+}

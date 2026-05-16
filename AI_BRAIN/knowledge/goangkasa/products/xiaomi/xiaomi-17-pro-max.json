@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "Xiaomi 17 Pro Max",
+  "modelSlug": "xiaomi-17-pro-max",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 726.09,
+        "24_month": 389.91,
+        "36_month": 283.52,
+        "48_month": 226.34,
+        "60_month": 192.04,
+        "72_month": 169.17,
+        "84_month": 152.83,
+        "96_month": 140.58,
+        "108_month": 131.05,
+        "120_month": 123.43,
+        "144_month": 111.99,
+        "180_month": 100.56
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 805.03,
+        "24_month": 432.3,
+        "36_month": 314.34,
+        "48_month": 250.95,
+        "60_month": 212.91,
+        "72_month": 187.56,
+        "84_month": 169.45,
+        "96_month": 155.86,
+        "108_month": 145.3,
+        "120_month": 136.85,
+        "144_month": 124.17,
+        "180_month": 111.49
+      }
+    }
+  ]
+}

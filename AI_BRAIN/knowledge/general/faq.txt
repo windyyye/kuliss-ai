@@ -1,0 +1,101 @@
+GoAnsuran Frequently Asked Questions (FAQ)
+
+This document contains the most common questions customers ask about GoAnsuran, GoAngkasa, and GoFlexi, along with comprehensive answers. Use these as reference when responding to customer inquiries.
+
+========================================
+GENERAL QUESTIONS
+========================================
+
+Q: What is GoAnsuran?
+A: GoAnsuran is a Malaysian platform that offers flexible monthly payment plans for premium gadgets. Our tagline is "Tech You Love, Made Affordable." We provide two main plans — GoAngkasa for civil servants and GoFlexi for everyone — making the latest smartphones accessible without large upfront costs.
+
+Q: What brands are available?
+A: We carry devices from 15 major brands: Apple, Samsung, Google, ASUS, HONOR, Infinix, iQOO, Nothing, OnePlus, OPPO, Realme, Red Magic, TECNO, Vivo, and Xiaomi. GoAngkasa offers the full range, while GoFlexi currently focuses on Apple, Samsung, HONOR, OPPO, and Google.
+
+Q: How do I get started?
+A: Visit our website at https://goansuran-user-uat.web.app/ to create an account. For GoFlexi, simply sign up and complete the quick verification. For GoAngkasa, ensure you have your government employee credentials ready. Our team will guide you through the rest.
+
+Q: Where is GoAnsuran available?
+A: GoAnsuran serves the Malaysian market. All prices are in Malaysian Ringgit (MYR). We communicate in both English and Bahasa Melayu.
+
+========================================
+PLAN COMPARISON
+========================================
+
+Q: What is the difference between GoAngkasa and GoFlexi?
+A: GoAngkasa is a structured installment plan exclusively for Malaysian civil servants and government employees, offering tenures from 12 to 180 months with three package tiers (Phone Only, Phone + Accessories, Phone + Accessories + 2 Years Warranty). 
+   GoFlexi is a flexible subscription plan open to everyone, featuring low or zero deposits, fixed monthly fees, and the freedom to upgrade anytime. GoAngkasa is best for government employees who want long-term structured payments, while GoFlexi suits anyone who values flexibility and upgrade freedom.
+
+Q: Which plan is better for me?
+A: If you are a civil servant or government employee, GoAngkasa typically offers better long-term value with extended tenures and comprehensive bundles. 
+   But if you are in the private sector, self-employed, or prefer shorter commitments with upgrade freedom, GoFlexi is the right choice. We can help you compare both options based on your specific situation.
+
+========================================
+UPGRADES AND DEVICES
+========================================
+
+Q: Can I upgrade my phone?
+A: Yes! With GoFlexi, you can trade in your current device and switch to a newer model at any time. There is no need to wait for a contract period to end. For GoAngkasa, upgrade options may be available depending on your current agreement status — contact our team to discuss.
+
+Q: Do the devices come with accessories?
+A: GoFlexi subscriptions include the device. For GoAngkasa, you can choose from three package tiers: Phone Only (just the device), Phone + Accessories (includes MagSafe cases, screen protectors, chargers, power banks, and more), or Phone + Accessories + 2 Years Warranty (full bundle with extended protection).
+
+Q: Are the devices brand new?
+A: Yes, all devices offered through GoAnsuran are brand new and come with the manufacturer's standard warranty, unless otherwise stated in the specific plan details.
+
+========================================
+PAYMENT AND DEPOSIT
+========================================
+
+Q: Is there a minimum deposit?
+A: GoFlexi deposits start as low as RM 0.00, depending on the device and your profile. GoAngkasa pricing depends on the device model, package tier, and tenure selected. There is no single minimum deposit — it varies by selection.
+
+Q: How are payments made?
+A: For GoAngkasa, salary deduction options may be available for civil servants, making payment seamless. For GoFlexi, monthly subscription payments are made through standard payment methods. Specific payment details are provided during the application process.
+
+========================================
+ELIGIBILITY AND APPROVAL
+========================================
+
+Q: Who is eligible for GoAngkasa?
+A: GoAngkasa is exclusively for Malaysian civil servants, government employees, GLC employees, and cooperative employees with active ASBN membership. Required documents: current and previous month's payslip, CTOS report, and latest EPF statement (optional). We are inclusive and welcome applicants with bad CTOS.
+
+Q: Can bad CTOS apply for GoAngkasa?
+A: Yes. GoAngkasa evaluates applications holistically and does not disqualify applicants solely based on CTOS or CCRIS records. Your government employment status is the primary consideration.
+
+Q: How long does GoAngkasa approval take?
+A: Approval typically takes 2-3 days after all required documents are submitted.
+
+Q: How is the installment deducted from my salary?
+A: Monthly installments for GoAngkasa are deducted directly from your salary via Angkasa's programme. This means automatic, hassle-free payments — no manual transfers, no late fees, no missed payments. The deduction happens before the salary reaches your bank account.
+
+Q: Who is eligible for GoFlexi?
+A: GoFlexi is open to everyone — private sector workers, self-employed, platform riders/drivers (Grab, Lalamove, FoodPanda, etc.), commissioned agents (MLM, Cuckoo, Insurance, Property, etc.), students (minimum 18 years old), and even foreign workers, housewives, retirees, and pensioners. Document requirements vary by category. No guarantor required.
+
+Q: Can bad CTOS apply for GoFlexi?
+A: Yes. GoFlexi is suitable for clients with low or no CTOS score. A CTOS report is required as part of the application (except for students), but a bad score does not automatically disqualify you.
+
+Q: Need guarantor for GoFlexi?
+A: No guarantor is required for any GoFlexi application, regardless of employment category.
+
+Q: Is a deposit required for GoFlexi?
+A: Yes, a deposit is required. The amount depends on the device chosen and the applicant's profile. Specific deposit amounts are provided in the personalized phone offer.
+
+Q: How long is the GoFlexi approval?
+A: GoFlexi approval typically takes 2-3 working days after all required documents and e-KYC steps are completed.
+
+Q: What if I have bad credit (CTOS/CCRIS issues)?
+A: For GoAngkasa, we review applications holistically and do not disqualify applicants solely based on CTOS or CCRIS records. Your government employment status is the primary consideration. For GoFlexi, our team reviews each application individually to provide the best possible offer.
+
+Q: How long does approval take?
+A: Both GoAngkasa and GoFlexi are designed for quick processing. After submitting your application and required documents, you will receive a notification as soon as a decision is made. Our team works to keep turnaround times as short as possible.
+
+========================================
+DELIVERY AND SUPPORT
+========================================
+
+Q: How will I receive my device?
+A: For now, we are operating by self-pickup at our HQ located at Kuala Lumpur. Do contact our team to arrange for a pickup.
+
+Q: Who do I contact for help?
+A: You can reach out to our team through the GoAnsuran platform or via WhatsApp. We are here to help with any questions about plans, devices, eligibility, or your existing subscription.

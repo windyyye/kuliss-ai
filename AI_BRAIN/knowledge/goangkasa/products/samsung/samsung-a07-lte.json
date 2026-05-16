@@ -1,0 +1,28 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung A07 LTE",
+  "modelSlug": "samsung-a07-lte",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 110.36,
+        "24_month": 59.26,
+        "36_month": 43.09,
+        "48_month": 34.4,
+        "60_month": 29.19,
+        "72_month": 25.71,
+        "84_month": 23.23,
+        "96_month": 21.37,
+        "108_month": 19.92,
+        "120_month": 18.76,
+        "144_month": 17.02,
+        "180_month": 15.28
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "Infinix",
+  "brandSlug": "infinix",
+  "model": "Infinix Hot60i 5G",
+  "modelSlug": "infinix-hot60i-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 100.89,
+        "24_month": 54.17,
+        "36_month": 39.39,
+        "48_month": 31.45,
+        "60_month": 26.68,
+        "72_month": 23.5,
+        "84_month": 21.23,
+        "96_month": 19.53,
+        "108_month": 18.21,
+        "120_month": 17.15,
+        "144_month": 15.56,
+        "180_month": 13.97
+      }
+    }
+  ]
+}

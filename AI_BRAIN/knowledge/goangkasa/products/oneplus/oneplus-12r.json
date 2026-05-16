@@ -1,0 +1,28 @@
+{
+  "brand": "OnePlus",
+  "brandSlug": "oneplus",
+  "model": "OnePlus 12R",
+  "modelSlug": "oneplus-12r",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 394.54,
+        "24_month": 211.87,
+        "36_month": 154.06,
+        "48_month": 122.99,
+        "60_month": 104.35,
+        "72_month": 91.92,
+        "84_month": 83.05,
+        "96_month": 76.39,
+        "108_month": 71.21,
+        "120_month": 67.07,
+        "144_month": 60.85,
+        "180_month": 54.64
+      }
+    }
+  ]
+}

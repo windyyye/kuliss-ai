@@ -1,0 +1,10 @@
+{
+  "session_id": null,
+  "messages": [],
+  "intent_history": [],
+  "products_mentioned": [],
+  "objections_raised": [],
+  "next_action": null,
+  "started_at": null,
+  "last_updated": null
+}

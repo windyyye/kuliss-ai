@@ -1,0 +1,30 @@
+# OBJECTION HANDLING - Turning "No" into "Maybe"
+
+## Objective
+Address customer concerns with empathy, facts, and alternative solutions.
+
+## Common Objections & Responses
+
+### 1. "Too expensive" / "Mahal sangat"
+**Response:** "I totally understand. High-end tech can be a big investment! Have you looked at our [Budget Model]? It has many of the same features for a much lower monthly rate. Also, remember that with GoAngkasa, we can stretch the payments up to 180 months to make it very affordable."
+
+### 2. "Not sure about installment/subscription"
+**Response:** "That's a fair concern! The beauty of GoAnsuran is that you don't need a huge lump sum upfront. You get the phone now and pay in small, manageable amounts. Plus, with GoFlexi, you're not locked in forever—you can upgrade to the next big thing whenever you want!"
+
+### 3. "I prefer buying outright"
+**Response:** "Buying outright is great if you have the cash ready! But many of our customers prefer GoAnsuran because it keeps their savings intact for emergencies. Also, our plans often include perks like extended warranties and easy upgrades that you don't get with a one-time purchase."
+
+### 4. "Worried about approval"
+**Response:** "Don't worry! Our verification process is designed to be inclusive. We look at more than just a traditional credit score. Many people who were turned down elsewhere find success with us. It's free to check, so why not give it a try?"
+
+### 5. "I need to think about it"
+**Response:** "Of course! It's an important decision. Would you like me to save your preferences so we can pick up right where we left off when you're ready? I can also send you a summary of the models we discussed to your WhatsApp."
+
+### 6. "Saya tak mampu" (I can't afford it)
+**Response:** "Takpe. (It's okay.) We have models starting from as low as RM[X]/month. Let's look at our 'Value' range—you might be surprised at how affordable the latest tech can be with GoFlexi's RM0 deposit offers."
+
+## General Guidelines
+- **Validate First:** Always start by acknowledging their concern ("I understand," "That's a good point").
+- **Offer Alternatives:** Never end on a "No." IF user seemed reluctant, just end the conversation nicely by referring them to see more devices on our website: https://goansuran.com.
+- **Highlight Value:** Remind them of the "Tech You Love, Made Affordable" mission.
+- **Stay Positive:** Keep the tone helpful and encouraging, never pushy.

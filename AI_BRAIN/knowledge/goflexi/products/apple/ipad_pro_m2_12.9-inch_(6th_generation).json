@@ -1,0 +1,43 @@
+{
+  "model": "iPad Pro M2 12.9-inch (6th Generation)",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "LaNGUtUbPxPY",
+      "title": "iPad Pro M2 12.9-inch (6th Generation) 128GB",
+      "deposit": {
+        "value": 3568,
+        "formatted": "3,568.00",
+        "text": "RM 3,568.00"
+      },
+      "amount": {
+        "value": 111.02,
+        "formatted": "111.02",
+        "text": "RM 111.02"
+      },
+      "image": {
+        "id": "68289457966546945",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289457966546945_1776393288.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289457966546945_128x128.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289457966546945_256x256.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289457966546945_512x512.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289457966546945_1776393288.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289457966546945_1776393288.jpg?hash=11fb56a248be846655e4b9c331e2d6b7"
+        }
+      }
+    }
+  ]
+}

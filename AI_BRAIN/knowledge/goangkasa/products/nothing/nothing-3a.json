@@ -1,0 +1,28 @@
+{
+  "brand": "Nothing",
+  "brandSlug": "nothing",
+  "model": "Nothing 3a",
+  "modelSlug": "nothing-3a",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 214.56,
+        "24_month": 115.22,
+        "36_month": 83.78,
+        "48_month": 66.88,
+        "60_month": 56.75,
+        "72_month": 49.99,
+        "84_month": 45.16,
+        "96_month": 41.54,
+        "108_month": 38.73,
+        "120_month": 36.47,
+        "144_month": 33.09,
+        "180_month": 29.71
+      }
+    }
+  ]
+}

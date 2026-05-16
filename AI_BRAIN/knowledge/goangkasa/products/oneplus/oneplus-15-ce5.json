@@ -1,0 +1,28 @@
+{
+  "brand": "OnePlus",
+  "brandSlug": "oneplus",
+  "model": "OnePlus 15 CE5",
+  "modelSlug": "oneplus-15-ce5",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 242.82,
+        "24_month": 130.39,
+        "36_month": 94.81,
+        "48_month": 75.69,
+        "60_month": 64.22,
+        "72_month": 56.57,
+        "84_month": 51.11,
+        "96_month": 47.01,
+        "108_month": 43.83,
+        "120_month": 41.28,
+        "144_month": 37.45,
+        "180_month": 33.63
+      }
+    }
+  ]
+}

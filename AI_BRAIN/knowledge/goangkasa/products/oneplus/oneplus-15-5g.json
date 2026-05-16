@@ -1,0 +1,28 @@
+{
+  "brand": "OnePlus",
+  "brandSlug": "oneplus",
+  "model": "OnePlus 15 5G",
+  "modelSlug": "oneplus-15-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 694.51,
+        "24_month": 372.95,
+        "36_month": 271.19,
+        "48_month": 216.5,
+        "60_month": 183.69,
+        "72_month": 161.81,
+        "84_month": 146.19,
+        "96_month": 134.47,
+        "108_month": 125.35,
+        "120_month": 118.06,
+        "144_month": 107.12,
+        "180_month": 96.18
+      }
+    }
+  ]
+}

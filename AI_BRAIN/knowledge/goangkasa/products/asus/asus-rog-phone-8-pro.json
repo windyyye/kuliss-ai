@@ -1,0 +1,28 @@
+{
+  "brand": "Asus",
+  "brandSlug": "asus",
+  "model": "Asus ROG Phone 8 Pro",
+  "modelSlug": "asus-rog-phone-8-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 612.42,
+        "24_month": 328.86,
+        "36_month": 239.13,
+        "48_month": 190.91,
+        "60_month": 161.97,
+        "72_month": 142.68,
+        "84_month": 128.9,
+        "96_month": 118.57,
+        "108_month": 110.53,
+        "120_month": 104.1,
+        "144_month": 94.46,
+        "180_month": 84.82
+      }
+    }
+  ]
+}

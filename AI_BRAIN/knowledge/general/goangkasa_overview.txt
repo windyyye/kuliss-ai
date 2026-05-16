@@ -1,0 +1,70 @@
+GoAngkasa Plan Overview
+
+What is GoAngkasa?
+GoAngkasa is a salary deduction financing plan for government or GLC (Government-Linked Company) workers. It is one of GoAnsuran's two core offerings, offering structured installment payments deducted directly from salary via Angkasa's programme. Installments are usually longer than GoFlexi — up to 10 years (120 months) or more — making it more of a fixed commitment but with significant stability advantages.
+
+Key Features:
+- For government or GLC workers — exclusively available to Malaysian civil servants and government-linked employees.
+- Salary deduction financing — monthly installments are deducted directly from salary via Angkasa's programme, ensuring hassle-free payments.
+- Longer installments — tenure can be up to 10 years (120 months) or more, keeping monthly payments low and affordable.
+- Fixed commitment — compared to GoFlexi's flexible model, GoAngkasa is a structured plan with predictable payments throughout the tenure.
+- Stability advantages — salary deduction means no missed payments, no late fees, and peace of mind for both the customer and GoAnsuran.
+
+Target Audience:
+GoAngkasa is exclusively available to:
+- Malaysian civil servants (kakitangan kerajaan)
+- Government employees at federal, state, and local levels
+- Government-Linked Company (GLC) employees
+- Cooperative employees with an active ASBN (Angkatan Simpanan Nasional Berhad) membership
+
+This targeted approach allows GoAngkasa to offer favorable terms, including extended installment periods and competitive pricing that would not be possible in a general-market product.
+
+Package Options:
+GoAngkasa provides three distinct package tiers for every device, allowing customers to choose the level of completeness that suits their needs:
+
+1. Phone Only
+The base package includes the device itself with no additional accessories. This is the most affordable option, ideal for users who already own compatible accessories or prefer to purchase them separately.
+
+2. Phone + Accessories
+This mid-tier bundle includes the device along with a curated set of essential accessories. Typical accessories include MagSafe-compatible cases, premium screen protectors, fast-charging power adapters, wireless car mounts, keyboards, EarPods, and high-capacity power banks. Bundling accessories into the installment plan is often more cost-effective than buying them individually.
+
+3. Phone + Accessories + 2 Years Warranty
+The most comprehensive package. In addition to all accessories, this tier includes a 2-year extended warranty that covers manufacturing defects and hardware failures. This is particularly valuable for customers choosing longer tenures, as it ensures protection for a significant portion of the installment period.
+
+Installment Periods:
+GoAngkasa offers 12 distinct tenure options:
+- Short-term: 12 months, 24 months
+- Mid-term: 36 months, 48 months, 60 months, 72 months
+- Long-term: 84 months, 96 months, 108 months, 120 months
+- Extended-term: 144 months, 180 months (up to 15 years)
+
+Longer tenures result in lower monthly payments, making premium flagship devices accessible even on modest salaries. Installments can go up to 10 years (120 months) and beyond, making this a longer-term commitment compared to GoFlexi. Pricing varies by device model, storage variant, package tier, and selected tenure.
+
+Salary Deduction:
+Monthly installments are deducted directly from the customer's salary via Angkasa's programme. This means:
+- No manual monthly payments to worry about
+- No risk of late payment fees
+- Automatic and seamless — the deduction happens before the salary reaches the employee's bank account
+
+Credit Policy:
+GoAngkasa is recognized for its inclusive approach to credit assessment. Bad CTOS can still apply. The primary qualification is verified civil servant or government employee status, and the platform evaluates applications holistically rather than relying solely on credit scores.
+
+Product Catalog:
+The GoAngkasa catalog includes devices from 15 major brands: Apple, Samsung, Google, ASUS, HONOR, Infinix, iQOO, Nothing, OnePlus, OPPO, Realme, Red Magic, TECNO, Vivo, and Xiaomi. Product data is organized in structured JSON files categorized by brand and model, with detailed pricing for every variant, package type, and tenure combination.
+
+Application Process Summary:
+1. Verify eligibility as a civil servant or government employee
+2. Browse the catalog and select a device
+3. Choose a package tier (Phone Only, Phone + Accessories, or Phone + Accessories + 2 Years Warranty)
+4. Select a tenure period (12 to 180 months)
+5. Submit the application with supporting documents (government staff ID, ASBN statement)
+6. Approval typically takes 2-3 days
+7. Device is delivered to the specified address
+
+Key Differentiators from GoFlexi:
+- Salary deduction via Angkasa's programme (automatic, hassle-free)
+- Longer installment tenures (up to 10 years or more)
+- Fixed commitment with stability advantages
+- Exclusive to government/GLC workers with preferential terms
+- Inclusive credit policy — bad CTOS can apply
+- Three comprehensive package tiers with accessories and warranty options

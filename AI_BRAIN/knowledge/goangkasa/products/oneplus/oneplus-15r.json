@@ -1,0 +1,46 @@
+{
+  "brand": "OnePlus",
+  "brandSlug": "oneplus",
+  "model": "OnePlus 15R",
+  "modelSlug": "oneplus-15r",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 426.12,
+        "24_month": 228.82,
+        "36_month": 166.39,
+        "48_month": 132.83,
+        "60_month": 112.7,
+        "72_month": 99.28,
+        "84_month": 89.69,
+        "96_month": 82.5,
+        "108_month": 76.91,
+        "120_month": 72.44,
+        "144_month": 65.72,
+        "180_month": 59.01
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 473.48,
+        "24_month": 254.26,
+        "36_month": 184.88,
+        "48_month": 147.6,
+        "60_month": 125.23,
+        "72_month": 110.31,
+        "84_month": 99.66,
+        "96_month": 91.67,
+        "108_month": 85.46,
+        "120_month": 80.49,
+        "144_month": 73.03,
+        "180_month": 65.57
+      }
+    }
+  ]
+}

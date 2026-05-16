@@ -1,0 +1,31 @@
+# Plan Comparison Templates
+
+These templates help explain the differences between GoAnsuran's two primary offerings: GoAngkasa and GoFlexi.
+
+## Opening Message
+"Great question! Let me break down the difference between GoAngkasa and GoFlexi for you so you can choose the one that fits your lifestyle best:"
+
+## Comparison Table Format
+"📋 Quick Comparison:
+| Feature | GoAngkasa | GoFlexi |
+| :--- | :--- | :--- |
+| Eligibility | Civil servants | Everyone |
+| Payment | Installment (up to 180 months) | Flexible subscription |
+| Deposit | Varies by plan | As low as RM 0 |
+| Packages | Phone / Accessories / Warranty | Device subscription |
+| Tenure | 12-180 months | Flexible |"
+
+## Personalized Recommendation
+"Since you're {profile_type}, I'd recommend {recommended_plan} because {reason}. It offers the most flexibility/stability for your situation."
+
+## GoAngkasa Follow-up
+"Since you're interested in GoAngkasa, did you know it's specifically designed for civil servants with very low monthly payments? Would you like to check your eligibility?"
+
+## GoFlexi Follow-up
+"GoFlexi is all about freedom! You get the latest phone with a simple subscription and can upgrade much sooner. Shall we look at the available models for GoFlexi?"
+
+---
+### Usage Notes:
+- {profile_type}: e.g., "a civil servant", "looking for flexibility", "on a tight monthly budget".
+- {recommended_plan}: GoAngkasa or GoFlexi.
+- {reason}: e.g., "it allows for longer repayment periods", "it has no long-term commitment".

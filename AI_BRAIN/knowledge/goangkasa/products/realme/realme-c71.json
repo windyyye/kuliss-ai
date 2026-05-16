@@ -1,0 +1,28 @@
+{
+  "brand": "Realme",
+  "brandSlug": "realme",
+  "model": "Realme C71",
+  "modelSlug": "realme-c71",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 102.46,
+        "24_month": 55.02,
+        "36_month": 40.01,
+        "48_month": 31.94,
+        "60_month": 27.1,
+        "72_month": 23.87,
+        "84_month": 21.57,
+        "96_month": 19.84,
+        "108_month": 18.49,
+        "120_month": 17.42,
+        "144_month": 15.8,
+        "180_month": 14.19
+      }
+    }
+  ]
+}

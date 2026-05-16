@@ -1,0 +1,46 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO Reno15 5G",
+  "modelSlug": "oppo-reno15-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 315.6,
+        "24_month": 169.48,
+        "36_month": 123.23,
+        "48_month": 98.38,
+        "60_month": 83.47,
+        "72_month": 73.53,
+        "84_month": 66.43,
+        "96_month": 61.1,
+        "108_month": 56.96,
+        "120_month": 53.65,
+        "144_month": 48.68,
+        "180_month": 43.71
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 378.75,
+        "24_month": 203.39,
+        "36_month": 147.89,
+        "48_month": 118.07,
+        "60_month": 100.17,
+        "72_month": 88.24,
+        "84_month": 79.72,
+        "96_month": 73.33,
+        "108_month": 68.36,
+        "120_month": 64.38,
+        "144_month": 58.42,
+        "180_month": 52.45
+      }
+    }
+  ]
+}

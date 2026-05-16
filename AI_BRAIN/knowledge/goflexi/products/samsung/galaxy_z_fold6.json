@@ -1,0 +1,80 @@
+{
+  "model": "Galaxy Z Fold6",
+  "brand": "Samsung",
+  "variants": [
+    {
+      "id": "BAtXknbHnVPA",
+      "title": "Galaxy Z Fold6 256GB",
+      "deposit": {
+        "value": 1339,
+        "formatted": "1,339.00",
+        "text": "RM 1,339.00"
+      },
+      "amount": {
+        "value": 323.78,
+        "formatted": "323.78",
+        "text": "RM 323.78"
+      },
+      "image": {
+        "id": "68289459140952065",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289459140952065_1776393289.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289459140952065_128x128.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289459140952065_256x256.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289459140952065_512x512.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289459140952065_1024x1024.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289459140952065_1776393289.png?hash=a379dde10f9ac1006ab9396b41c477ee"
+        }
+      }
+    },
+    {
+      "id": "4XEynNeNRJbX",
+      "title": "Galaxy Z Fold6 512GB",
+      "deposit": {
+        "value": 1459,
+        "formatted": "1,459.00",
+        "text": "RM 1,459.00"
+      },
+      "amount": {
+        "value": 352.78,
+        "formatted": "352.78",
+        "text": "RM 352.78"
+      },
+      "image": {
+        "id": "68289460382466049",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289460382466049_1776393290.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289460382466049_128x128.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289460382466049_256x256.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289460382466049_512x512.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289460382466049_1024x1024.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289460382466049_1776393290.png?hash=f62fc533f8e35159ae2da195d86d2d66"
+        }
+      }
+    }
+  ]
+}

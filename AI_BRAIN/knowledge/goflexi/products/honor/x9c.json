@@ -1,0 +1,43 @@
+{
+  "model": "X9c",
+  "brand": "Honor",
+  "variants": [
+    {
+      "id": "6EMK3QGrj4gi",
+      "title": "X9c 512GB",
+      "deposit": {
+        "value": 259,
+        "formatted": "259.00",
+        "text": "RM 259.00"
+      },
+      "amount": {
+        "value": 62.79,
+        "formatted": "62.79",
+        "text": "RM 62.79"
+      },
+      "image": {
+        "id": "68289480766783489",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289480766783489_1776393302.png?hash=190822103f62bd9918baff10c9767cbf"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289480766783489_128x128.png?hash=190822103f62bd9918baff10c9767cbf"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289480766783489_256x256.png?hash=190822103f62bd9918baff10c9767cbf"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289480766783489_1776393302.png?hash=190822103f62bd9918baff10c9767cbf"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289480766783489_1776393302.png?hash=190822103f62bd9918baff10c9767cbf"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289480766783489_1776393302.png?hash=190822103f62bd9918baff10c9767cbf"
+        }
+      }
+    }
+  ]
+}

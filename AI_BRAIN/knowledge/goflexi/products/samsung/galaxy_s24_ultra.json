@@ -1,0 +1,117 @@
+{
+  "model": "Galaxy S24 Ultra",
+  "brand": "Samsung",
+  "variants": [
+    {
+      "id": "k6bHfrW9w446",
+      "title": "Galaxy S24 Ultra 256GB",
+      "deposit": {
+        "value": 919,
+        "formatted": "919.00",
+        "text": "RM 919.00"
+      },
+      "amount": {
+        "value": 222.29,
+        "formatted": "222.29",
+        "text": "RM 222.29"
+      },
+      "image": {
+        "id": "68289465080086529",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289465080086529_1776393293.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289465080086529_128x128.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289465080086529_256x256.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289465080086529_512x512.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289465080086529_1776393293.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289465080086529_1776393293.jpg?hash=d405dd1cb5259119c11f61ce7642f5d0"
+        }
+      }
+    },
+    {
+      "id": "wxiYXKiqMa8b",
+      "title": "Galaxy S24 Ultra 512GB",
+      "deposit": {
+        "value": 999,
+        "formatted": "999.00",
+        "text": "RM 999.00"
+      },
+      "amount": {
+        "value": 241.62,
+        "formatted": "241.62",
+        "text": "RM 241.62"
+      },
+      "image": {
+        "id": "68289466204160001",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289466204160001_1776393293.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289466204160001_128x128.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289466204160001_256x256.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289466204160001_512x512.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289466204160001_1776393293.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289466204160001_1776393293.jpg?hash=deaa0806df3f3d5701dca91f79968cb9"
+        }
+      }
+    },
+    {
+      "id": "CijUEBNjm4QF",
+      "title": "Galaxy S24 Ultra 1TB",
+      "deposit": {
+        "value": 1239,
+        "formatted": "1,239.00",
+        "text": "RM 1,239.00"
+      },
+      "amount": {
+        "value": 299.62,
+        "formatted": "299.62",
+        "text": "RM 299.62"
+      },
+      "image": {
+        "id": "68289467328233473",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289467328233473_1776393294.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289467328233473_128x128.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289467328233473_256x256.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289467328233473_512x512.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289467328233473_1776393294.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289467328233473_1776393294.jpg?hash=12f77b7ecfe5b033009724e7642b5b7c"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "user_id": null,
+  "name": null,
+  "phone": null,
+  "plan_interest": null,
+  "brand_preference": null,
+  "budget_range": null,
+  "employment_type": null,
+  "is_civil_servant": null,
+  "conversation_stage": "greeting",
+  "last_interaction": null,
+  "devices_viewed": [],
+  "eligibility_status": null
+}

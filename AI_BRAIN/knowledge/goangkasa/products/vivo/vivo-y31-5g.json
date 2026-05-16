@@ -1,0 +1,46 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo Y31 5G",
+  "modelSlug": "vivo-y31-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 173.51,
+        "24_month": 93.17,
+        "36_month": 67.75,
+        "48_month": 54.09,
+        "60_month": 45.89,
+        "72_month": 40.42,
+        "84_month": 36.52,
+        "96_month": 33.55,
+        "108_month": 31.32,
+        "120_month": 29.49,
+        "144_month": 26.76,
+        "180_month": 24.03
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 220.87,
+        "24_month": 118.61,
+        "36_month": 86.24,
+        "48_month": 68.85,
+        "60_month": 58.42,
+        "72_month": 51.46,
+        "84_month": 46.49,
+        "96_month": 42.76,
+        "108_month": 39.87,
+        "120_month": 37.55,
+        "144_month": 34.07,
+        "180_month": 30.59
+      }
+    }
+  ]
+}

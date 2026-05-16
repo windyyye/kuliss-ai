@@ -1,0 +1,46 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "POCO F8 Pro",
+  "modelSlug": "poco-f8-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 362.97,
+        "24_month": 194.91,
+        "36_month": 141.73,
+        "48_month": 113.15,
+        "60_month": 96,
+        "72_month": 84.57,
+        "84_month": 76.4,
+        "96_month": 70.27,
+        "108_month": 65.51,
+        "120_month": 61.7,
+        "144_month": 55.98,
+        "180_month": 50.27
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 378.75,
+        "24_month": 203.39,
+        "36_month": 147.89,
+        "48_month": 118.07,
+        "60_month": 100.17,
+        "72_month": 88.24,
+        "84_month": 79.72,
+        "96_month": 73.33,
+        "108_month": 68.36,
+        "120_month": 64.38,
+        "144_month": 58.42,
+        "180_month": 52.45
+      }
+    }
+  ]
+}

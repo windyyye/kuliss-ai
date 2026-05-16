@@ -1,0 +1,28 @@
+{
+  "brand": "Vivo",
+  "brandSlug": "vivo",
+  "model": "Vivo X200 FE",
+  "modelSlug": "vivo-x200-fe",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 352.55,
+        "24_month": 189.32,
+        "36_month": 137.66,
+        "48_month": 109.9,
+        "60_month": 93.24,
+        "72_month": 82.14,
+        "84_month": 74.21,
+        "96_month": 68.26,
+        "108_month": 63.63,
+        "120_month": 59.93,
+        "144_month": 54.38,
+        "180_month": 48.82
+      }
+    }
+  ]
+}

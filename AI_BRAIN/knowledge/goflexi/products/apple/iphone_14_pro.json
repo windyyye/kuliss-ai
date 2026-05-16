@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 14 Pro",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "zz9GfCHXMHG",
+      "title": "iPhone 14 Pro 128GB",
+      "deposit": {
+        "value": 699,
+        "formatted": "699.00",
+        "text": "RM 699.00"
+      },
+      "amount": {
+        "value": 169.12,
+        "formatted": "169.12",
+        "text": "RM 169.12"
+      },
+      "image": {
+        "id": "64409482993598465",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409482993598465_1774080643.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409482993598465_128x158.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409482993598465_256x315.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409482993598465_1774080643.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409482993598465_1774080643.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409482993598465_1774080643.png?hash=34f4902a08859190b8196ac0b0faa7df"
+        }
+      }
+    },
+    {
+      "id": "mmyeCcbAgCg",
+      "title": "iPhone 14 Pro 256GB",
+      "deposit": {
+        "value": 799,
+        "formatted": "799.00",
+        "text": "RM 799.00"
+      },
+      "amount": {
+        "value": 193.29,
+        "formatted": "193.29",
+        "text": "RM 193.29"
+      },
+      "image": {
+        "id": "64409484520325121",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409484520325121_1774080644.png?hash=4bb960608e658338cbd55b7da2153138"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409484520325121_128x158.png?hash=4bb960608e658338cbd55b7da2153138"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409484520325121_256x317.png?hash=4bb960608e658338cbd55b7da2153138"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409484520325121_1774080644.png?hash=4bb960608e658338cbd55b7da2153138"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409484520325121_1774080644.png?hash=4bb960608e658338cbd55b7da2153138"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409484520325121_1774080644.png?hash=4bb960608e658338cbd55b7da2153138"
+        }
+      }
+    },
+    {
+      "id": "aaHBtUFiWnB",
+      "title": "iPhone 14 Pro 512GB",
+      "deposit": {
+        "value": 999,
+        "formatted": "999.00",
+        "text": "RM 999.00"
+      },
+      "amount": {
+        "value": 241.62,
+        "formatted": "241.62",
+        "text": "RM 241.62"
+      },
+      "image": {
+        "id": "64409485896056833",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409485896056833_1774080645.png?hash=8def5987ca58005b7a74e756300e67f6"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409485896056833_128x157.png?hash=8def5987ca58005b7a74e756300e67f6"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409485896056833_256x314.png?hash=8def5987ca58005b7a74e756300e67f6"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409485896056833_1774080645.png?hash=8def5987ca58005b7a74e756300e67f6"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409485896056833_1774080645.png?hash=8def5987ca58005b7a74e756300e67f6"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409485896056833_1774080645.png?hash=8def5987ca58005b7a74e756300e67f6"
+        }
+      }
+    }
+  ]
+}

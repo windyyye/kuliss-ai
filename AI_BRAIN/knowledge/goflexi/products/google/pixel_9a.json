@@ -1,0 +1,43 @@
+{
+  "model": "Pixel 9a",
+  "brand": "Google",
+  "variants": [
+    {
+      "id": "CijUEtAr7UrX",
+      "title": "Pixel 9a 128GB",
+      "deposit": {
+        "value": 339,
+        "formatted": "339.00",
+        "text": "RM 339.00"
+      },
+      "amount": {
+        "value": 82.12,
+        "formatted": "82.12",
+        "text": "RM 82.12"
+      },
+      "image": {
+        "id": "68289525696167937",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289525696167937_1776393329.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289525696167937_128x128.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289525696167937_256x256.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289525696167937_512x512.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289525696167937_1776393329.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289525696167937_1776393329.jpg?hash=6f387724f8825e784226ba8915b955fa"
+        }
+      }
+    }
+  ]
+}

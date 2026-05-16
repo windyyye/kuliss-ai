@@ -1,0 +1,82 @@
+{
+  "brand": "Google",
+  "brandSlug": "google",
+  "model": "Google Pixel 10 Pro",
+  "modelSlug": "google-pixel-10-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "128GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 599.79,
+        "24_month": 322.08,
+        "36_month": 234.2,
+        "48_month": 186.97,
+        "60_month": 158.63,
+        "72_month": 139.74,
+        "84_month": 126.25,
+        "96_month": 116.13,
+        "108_month": 108.25,
+        "120_month": 101.96,
+        "144_month": 92.51,
+        "180_month": 83.07
+      }
+    },
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 678.73,
+        "24_month": 364.47,
+        "36_month": 265.02,
+        "48_month": 211.58,
+        "60_month": 179.51,
+        "72_month": 158.13,
+        "84_month": 142.86,
+        "96_month": 131.41,
+        "108_month": 122.5,
+        "120_month": 115.38,
+        "144_month": 104.69,
+        "180_month": 94
+      }
+    },
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 773.45,
+        "24_month": 415.34,
+        "36_month": 302.01,
+        "48_month": 241.11,
+        "60_month": 204.56,
+        "72_month": 180.2,
+        "84_month": 162.8,
+        "96_month": 149.75,
+        "108_month": 139.6,
+        "120_month": 131.48,
+        "144_month": 119.3,
+        "180_month": 107.12
+      }
+    },
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 962.91,
+        "24_month": 517.08,
+        "36_month": 375.99,
+        "48_month": 300.16,
+        "60_month": 254.67,
+        "72_month": 224.34,
+        "84_month": 202.68,
+        "96_month": 186.43,
+        "108_month": 173.79,
+        "120_month": 163.68,
+        "144_month": 148.52,
+        "180_month": 133.36
+      }
+    }
+  ]
+}

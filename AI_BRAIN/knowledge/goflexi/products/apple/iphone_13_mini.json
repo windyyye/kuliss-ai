@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 13 Mini",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "ttgpVCqgJ36",
+      "title": "iPhone 13 Mini 128GB",
+      "deposit": {
+        "value": 299,
+        "formatted": "299.00",
+        "text": "RM 299.00"
+      },
+      "amount": {
+        "value": 72.45,
+        "formatted": "72.45",
+        "text": "RM 72.45"
+      },
+      "image": {
+        "id": "64409494351773697",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409494351773697_1774080650.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409494351773697_128x170.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409494351773697_256x339.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409494351773697_1774080650.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409494351773697_1774080650.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409494351773697_1774080650.png?hash=2945d34a1eaf07e5b29946b3c34b4e60"
+        }
+      }
+    },
+    {
+      "id": "NNdzC4iYyMz",
+      "title": "iPhone 13 Mini 256GB",
+      "deposit": {
+        "value": 399,
+        "formatted": "399.00",
+        "text": "RM 399.00"
+      },
+      "amount": {
+        "value": 96.62,
+        "formatted": "96.62",
+        "text": "RM 96.62"
+      },
+      "image": {
+        "id": "64409495643619329",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409495643619329_1774080651.png?hash=36379acbf0449290dcb684b44a5483dc"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409495643619329_128x171.png?hash=36379acbf0449290dcb684b44a5483dc"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409495643619329_256x341.png?hash=36379acbf0449290dcb684b44a5483dc"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409495643619329_1774080651.png?hash=36379acbf0449290dcb684b44a5483dc"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409495643619329_1774080651.png?hash=36379acbf0449290dcb684b44a5483dc"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409495643619329_1774080651.png?hash=36379acbf0449290dcb684b44a5483dc"
+        }
+      }
+    },
+    {
+      "id": "GGQ4MKRhAK4",
+      "title": "iPhone 13 Mini 512GB",
+      "deposit": {
+        "value": 599,
+        "formatted": "599.00",
+        "text": "RM 599.00"
+      },
+      "amount": {
+        "value": 144.95,
+        "formatted": "144.95",
+        "text": "RM 144.95"
+      },
+      "image": {
+        "id": "64409496901910529",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409496901910529_1774080652.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409496901910529_128x171.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409496901910529_256x341.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409496901910529_1774080652.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409496901910529_1774080652.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409496901910529_1774080652.png?hash=86d335f6fcedd5628d2f588a1972ddb5"
+        }
+      }
+    }
+  ]
+}

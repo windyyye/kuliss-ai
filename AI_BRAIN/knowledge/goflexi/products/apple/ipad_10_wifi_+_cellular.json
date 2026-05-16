@@ -1,0 +1,43 @@
+{
+  "model": "iPad 10 WiFi + Cellular",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "KeAbWf3j3tMP",
+      "title": "iPad 10 64GB WiFi + Cellular",
+      "deposit": {
+        "value": 395,
+        "formatted": "395.00",
+        "text": "RM 395.00"
+      },
+      "amount": {
+        "value": 111.59,
+        "formatted": "111.59",
+        "text": "RM 111.59"
+      },
+      "image": {
+        "id": "68289451809308673",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289451809308673_1776393285.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289451809308673_128x128.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289451809308673_256x256.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289451809308673_512x512.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/68289451809308673_1024x1024.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/68289451809308673_1776393285.jpg?hash=afa66fb6edc1ebbd0e37fb2759217e98"
+        }
+      }
+    }
+  ]
+}

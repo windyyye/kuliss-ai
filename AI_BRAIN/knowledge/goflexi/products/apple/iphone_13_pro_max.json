@@ -1,0 +1,117 @@
+{
+  "model": "iPhone 13 Pro Max",
+  "brand": "Apple",
+  "variants": [
+    {
+      "id": "RRKAxeUBibG",
+      "title": "iPhone 13 Pro Max 128GB",
+      "deposit": {
+        "value": 699,
+        "formatted": "699.00",
+        "text": "RM 699.00"
+      },
+      "amount": {
+        "value": 169.12,
+        "formatted": "169.12",
+        "text": "RM 169.12"
+      },
+      "image": {
+        "id": "64409502371282945",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409502371282945_1774080655.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409502371282945_128x169.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409502371282945_256x337.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409502371282945_1774080655.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409502371282945_1774080655.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409502371282945_1774080655.png?hash=cda281f8a4a6bdcef0b14a175d89f6ed"
+        }
+      }
+    },
+    {
+      "id": "ddc9qGNKKKB",
+      "title": "iPhone 13 Pro Max 256GB",
+      "deposit": {
+        "value": 799,
+        "formatted": "799.00",
+        "text": "RM 799.00"
+      },
+      "amount": {
+        "value": 193.29,
+        "formatted": "193.29",
+        "text": "RM 193.29"
+      },
+      "image": {
+        "id": "64409503679905793",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409503679905793_1774080655.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409503679905793_128x168.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409503679905793_256x336.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409503679905793_1774080655.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409503679905793_1774080655.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409503679905793_1774080655.png?hash=4db2523723b52483a3266ca3c782ec3f"
+        }
+      }
+    },
+    {
+      "id": "kkeCLaNXKw6",
+      "title": "iPhone 13 Pro Max 512GB",
+      "deposit": {
+        "value": 999,
+        "formatted": "999.00",
+        "text": "RM 999.00"
+      },
+      "amount": {
+        "value": 241.62,
+        "formatted": "241.62",
+        "text": "RM 241.62"
+      },
+      "image": {
+        "id": "64409504854310913",
+        "code": "",
+        "title": "",
+        "original": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409504854310913_1774080657.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        },
+        "tiny": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409504854310913_128x169.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        },
+        "small": {
+          "src": "https://storage.googleapis.com/goansuran/image/cache/64409504854310913_256x338.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        },
+        "medium": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409504854310913_1774080657.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        },
+        "large": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409504854310913_1774080657.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        },
+        "huge": {
+          "src": "https://storage.googleapis.com/goansuran/image/original/64409504854310913_1774080657.png?hash=56be847a49c67faeded2c51ba5c7c6db"
+        }
+      }
+    }
+  ]
+}

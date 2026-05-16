@@ -1,0 +1,28 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung A17 LTE",
+  "modelSlug": "samsung-a17-lte",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 126.15,
+        "24_month": 67.74,
+        "36_month": 49.26,
+        "48_month": 39.32,
+        "60_month": 33.36,
+        "72_month": 29.39,
+        "84_month": 26.55,
+        "96_month": 24.42,
+        "108_month": 22.77,
+        "120_month": 21.44,
+        "144_month": 19.46,
+        "180_month": 17.47
+      }
+    }
+  ]
+}

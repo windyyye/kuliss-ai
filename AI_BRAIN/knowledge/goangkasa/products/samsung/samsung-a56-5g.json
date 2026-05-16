@@ -1,0 +1,28 @@
+{
+  "brand": "Samsung",
+  "brandSlug": "samsung",
+  "model": "Samsung A56 5G",
+  "modelSlug": "samsung-a56-5g",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 315.6,
+        "24_month": 169.48,
+        "36_month": 123.23,
+        "48_month": 98.38,
+        "60_month": 83.47,
+        "72_month": 73.53,
+        "84_month": 66.43,
+        "96_month": 61.1,
+        "108_month": 56.96,
+        "120_month": 53.65,
+        "144_month": 48.68,
+        "180_month": 43.71
+      }
+    }
+  ]
+}

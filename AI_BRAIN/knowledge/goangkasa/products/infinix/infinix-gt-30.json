@@ -1,0 +1,28 @@
+{
+  "brand": "Infinix",
+  "brandSlug": "infinix",
+  "model": "Infinix GT 30",
+  "modelSlug": "infinix-gt-30",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "256GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 203.51,
+        "24_month": 109.28,
+        "36_month": 79.46,
+        "48_month": 63.44,
+        "60_month": 53.82,
+        "72_month": 47.41,
+        "84_month": 42.84,
+        "96_month": 39.4,
+        "108_month": 36.73,
+        "120_month": 34.59,
+        "144_month": 31.39,
+        "180_month": 28.18
+      }
+    }
+  ]
+}

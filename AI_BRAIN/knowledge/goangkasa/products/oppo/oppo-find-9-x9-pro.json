@@ -1,0 +1,28 @@
+{
+  "brand": "OPPO",
+  "brandSlug": "oppo",
+  "model": "OPPO Find 9 X9 Pro",
+  "modelSlug": "oppo-find-9-x9-pro",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "512GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 789.24,
+        "24_month": 423.82,
+        "36_month": 308.17,
+        "48_month": 246.03,
+        "60_month": 208.74,
+        "72_month": 183.88,
+        "84_month": 166.12,
+        "96_month": 152.81,
+        "108_month": 142.45,
+        "120_month": 134.16,
+        "144_month": 121.73,
+        "180_month": 109.3
+      }
+    }
+  ]
+}

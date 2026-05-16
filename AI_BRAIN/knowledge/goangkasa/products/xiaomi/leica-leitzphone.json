@@ -1,0 +1,28 @@
+{
+  "brand": "Xiaomi",
+  "brandSlug": "xiaomi",
+  "model": "Leica Leitzphone",
+  "modelSlug": "leica-leitzphone",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "1TB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 1183.94,
+        "24_month": 635.77,
+        "36_month": 462.29,
+        "48_month": 369.07,
+        "60_month": 313.13,
+        "72_month": 275.84,
+        "84_month": 249.2,
+        "96_month": 229.23,
+        "108_month": 213.65,
+        "120_month": 201.26,
+        "144_month": 182.61,
+        "180_month": 163.97
+      }
+    }
+  ]
+}

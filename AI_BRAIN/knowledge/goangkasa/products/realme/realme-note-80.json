@@ -1,0 +1,28 @@
+{
+  "brand": "Realme",
+  "brandSlug": "realme",
+  "model": "Realme Note 80",
+  "modelSlug": "realme-note-80",
+  "category": "phone",
+  "source": "go-angkasa-catalog",
+  "variants": [
+    {
+      "storage": "64GB",
+      "packageType": "Phone Only",
+      "installmentPlans": {
+        "12_month": 70.89,
+        "24_month": 38.07,
+        "36_month": 27.68,
+        "48_month": 22.1,
+        "60_month": 18.75,
+        "72_month": 16.52,
+        "84_month": 14.92,
+        "96_month": 13.72,
+        "108_month": 12.79,
+        "120_month": 12.05,
+        "144_month": 10.93,
+        "180_month": 9.82
+      }
+    }
+  ]
+}

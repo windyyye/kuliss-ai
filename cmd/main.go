@@ -8,6 +8,7 @@ import (
 
 	"message-go/internal/ai"
 	"message-go/internal/api"
+	"message-go/internal/brain"
 	"message-go/internal/config"
 	"message-go/internal/db"
 	"message-go/internal/handler"
@@ -69,7 +70,14 @@ func main() {
 
 	db.Connect(cfg.DBType, cfg.DBURL)
 
-	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel)
+	b := brain.Load(cfg.AIBrainPath)
+	if b.Loaded {
+		log.Println("AI_BRAIN loaded successfully")
+	} else {
+		log.Println("AI_BRAIN not found, using prompt.txt")
+	}
+
+	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel, b)
 
 	msgHandler := &handler.MessageHandler{
 		AI: aiClient,
