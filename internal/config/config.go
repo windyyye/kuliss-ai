@@ -15,6 +15,11 @@ type Config struct {
 	OllamaModel string
 	Language    string
 	AIBrainPath string
+
+	AIProvider string
+	AIApiURL   string
+	AIModel    string
+	AIApiKey   string
 }
 
 // AppDataDir returns ~/Library/Application Support/Kuliss on macOS.
@@ -53,11 +58,15 @@ func Load() *Config {
 
 	cfg := &Config{
 		DBType:      getEnv("DB_TYPE", "sqlite"),
-		DBURL:       getEnv("DB_URL", "messages.db"), // will be made absolute below if needed
+		DBURL:       getEnv("DB_URL", "messages.db"),
 		OllamaURL:   getEnv("OLLAMA_URL", "http://localhost:11434"),
 		OllamaModel: getEnv("OLLAMA_MODEL", "gemma4:e4b"),
 		Language:    getEnv("LANGUAGE", "en"),
 		AIBrainPath: getEnv("AI_BRAIN_PATH", ""),
+		AIProvider:  getEnv("AI_PROVIDER", "ollama"),
+		AIApiURL:    getEnv("AI_API_URL", ""),
+		AIModel:     getEnv("AI_MODEL", ""),
+		AIApiKey:    getEnv("AI_API_KEY", ""),
 	}
 
 	// Resolve AI_BRAIN path: env > app data dir > executable dir > cwd

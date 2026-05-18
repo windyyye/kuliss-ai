@@ -78,6 +78,17 @@ func main() {
 	}
 
 	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel, b)
+	if cfg.AIProvider == "openrouter" {
+		url := cfg.AIApiURL
+		if url == "" {
+			url = "https://openrouter.ai/api/v1"
+		}
+		model := cfg.AIModel
+		if model == "" {
+			model = "qwen/qwen3-next-80b-a3b-instruct:free"
+		}
+		aiClient = ai.NewProviderClient("openrouter", url, model, cfg.AIApiKey, b)
+	}
 
 	msgHandler := &handler.MessageHandler{
 		AI: aiClient,

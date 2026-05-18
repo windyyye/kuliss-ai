@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-const maxPromptChars = 4000
+const maxPromptChars = 16000
 
 // AssemblePrompt builds a context-aware system prompt for the given user message.
 // It selects relevant flows, knowledge, and product data based on intent classification.

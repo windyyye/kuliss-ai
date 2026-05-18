@@ -34,13 +34,35 @@ export const SettingsHtml = (t) => `
     </div>
     <div class="settings-body">
       <div class="form-group">
+        <label class="form-label" for="cfg-provider">Provider</label>
+        <select id="cfg-provider" class="form-input">
+          <option value="ollama">Ollama (Local)</option>
+          <option value="openrouter">OpenRouter (Cloud)</option>
+        </select>
+      </div>
+      <div class="form-group" id="group-api-key" style="display:none">
+        <label class="form-label" for="cfg-api-key">API Key</label>
+        <input type="password" id="cfg-api-key" class="form-input" placeholder="sk-or-v1-..." />
+      </div>
+      <div class="form-group" id="group-api-url" style="display:none">
+        <label class="form-label" for="cfg-api-url">API URL</label>
+        <input type="text" id="cfg-api-url" class="form-input" placeholder="https://openrouter.ai/api/v1" />
+      </div>
+      <div class="form-group" id="group-ollama-model">
         <label class="form-label" for="cfg-model">${t('model_name')}</label>
         <select id="cfg-model" class="form-input">
-          <option value="gemma4:e4b">Yükleniyor...</option>
+          <option value="">Loading...</option>
         </select>
         <span class="form-hint">${t('model_hint')}</span>
       </div>
-      <div class="form-group">
+      <div class="form-group" id="group-openrouter-model" style="display:none">
+        <label class="form-label" for="cfg-model-or">Model</label>
+        <select id="cfg-model-or" class="form-input">
+          <option value="">Loading...</option>
+        </select>
+        <span class="form-hint">${t('model_hint')}</span>
+      </div>
+      <div class="form-group" id="group-ollama-url">
         <label class="form-label" for="cfg-url">${t('model_url')}</label>
         <input type="text" id="cfg-url" class="form-input" placeholder="http://localhost:11434" />
       </div>

@@ -119,7 +119,7 @@ func (s *BotService) Start() (string, error) {
 		deviceStore = s.container.NewDevice()
 	}
 
-	aiClient := ai.NewClient(s.cfg.OllamaURL, s.cfg.OllamaModel, s.brain)
+	aiClient := buildAIClient(s.cfg, s.brain)
 	msgHandler := &handler.MessageHandler{
 		AI:	aiClient,
 		OnNewMessage: func(phone, role, text string) {
@@ -191,7 +191,11 @@ func (s *BotService) Stop() string {
 func (s *BotService) GetStatus() BotStatus {
 	model := "gemma4:e4b"
 	if s.cfg != nil {
-		model = s.cfg.OllamaModel
+		if s.cfg.AIProvider == "openrouter" && s.cfg.AIModel != "" {
+			model = s.cfg.AIModel
+		} else if s.cfg.OllamaModel != "" {
+			model = s.cfg.OllamaModel
+		}
 	}
 	return BotStatus{
 		Running:	s.running,
@@ -256,7 +260,7 @@ func (s *BotService) SavePrompt(content string) error {
 
 func (s *BotService) TestPrompt(history []Message, message string) (string, error) {
 	cfg := config.Load()
-	aiClient := ai.NewClient(cfg.OllamaURL, cfg.OllamaModel, s.brain)
+	aiClient := buildAIClient(cfg, s.brain)
 
 	var mappedHistory []map[string]string
 
@@ -278,6 +282,14 @@ type OllamaTagResponse struct {
 
 func (s *BotService) GetModels() ([]string, error) {
 	cfg := config.Load()
+
+	if cfg.AIProvider == "openrouter" {
+		return getOpenRouterModels(cfg)
+	}
+	return getOllamaModels(cfg)
+}
+
+func getOllamaModels(cfg *config.Config) ([]string, error) {
 	url := cfg.OllamaURL
 	if url == "" {
 		url = "http://localhost:11434"
@@ -307,9 +319,65 @@ func (s *BotService) GetModels() ([]string, error) {
 	return models, nil
 }
 
+type openRouterModel struct {
+	ID      string `json:"id"`
+	Name    string `json:"name"`
+	Pricing struct {
+		Prompt     string `json:"prompt"`
+		Completion string `json:"completion"`
+	} `json:"pricing"`
+}
+
+type openRouterModelsResponse struct {
+	Data []openRouterModel `json:"data"`
+}
+
+func getOpenRouterModels(cfg *config.Config) ([]string, error) {
+	baseURL := "https://openrouter.ai/api/v1"
+
+	req, err := http.NewRequest("GET", baseURL+"/models", nil)
+	if err != nil {
+		return nil, fmt.Errorf("request oluşturma: %w", err)
+	}
+	if cfg.AIApiKey != "" {
+		req.Header.Set("Authorization", "Bearer "+cfg.AIApiKey)
+	}
+
+	client := &http.Client{Timeout: 15 * time.Second}
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("OpenRouter'a ulaşılamadı: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("OpenRouter hata döndürdü: %d", resp.StatusCode)
+	}
+
+	var result openRouterModelsResponse
+	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
+		return nil, err
+	}
+
+	var free, paid []string
+	for _, m := range result.Data {
+		if m.Pricing.Prompt == "0" && m.Pricing.Completion == "0" {
+			free = append(free, m.ID)
+		} else {
+			paid = append(paid, m.ID)
+		}
+	}
+
+	return append(free, paid...), nil
+}
+
 func (s *BotService) GetConfig() map[string]string {
 	cfg := config.Load()
 	return map[string]string{
+		"AI_PROVIDER":  cfg.AIProvider,
+		"AI_API_URL":   cfg.AIApiURL,
+		"AI_MODEL":     cfg.AIModel,
+		"AI_API_KEY":   cfg.AIApiKey,
 		"OLLAMA_MODEL": cfg.OllamaModel,
 		"OLLAMA_URL":   cfg.OllamaURL,
 		"DB_TYPE":      cfg.DBType,
@@ -454,6 +522,21 @@ func generateQRBase64(code string) (string, error) {
 		return "", err
 	}
 	return "data:image/png;base64," + base64.StdEncoding.EncodeToString(buf.Bytes()), nil
+}
+
+func buildAIClient(cfg *config.Config, b *brain.Brain) *ai.Client {
+	if cfg.AIProvider == "openrouter" {
+		url := cfg.AIApiURL
+		if url == "" {
+			url = "https://openrouter.ai/api/v1"
+		}
+		model := cfg.AIModel
+		if model == "" {
+			model = "qwen/qwen3-next-80b-a3b-instruct:free"
+		}
+		return ai.NewProviderClient("openrouter", url, model, cfg.AIApiKey, b)
+	}
+	return ai.NewClient(cfg.OllamaURL, cfg.OllamaModel, b)
 }
 
 func init() {

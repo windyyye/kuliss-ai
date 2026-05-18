@@ -32,6 +32,7 @@ function renderUI() {
   document.getElementById('btn-stop').addEventListener('click', () => window.stopBot());
   document.getElementById('btn-save-prompt').addEventListener('click', () => window.savePrompt());
   document.getElementById('btn-save-settings').addEventListener('click', () => window.saveSettings());
+  document.getElementById('cfg-provider').addEventListener('change', () => window.onProviderChange());
   document.getElementById('prompt-editor').addEventListener('input', updateCharCount);
   
   // WhatsApp Settings Buttons
@@ -823,38 +824,96 @@ window.unblockFromBlocked = async function (phone, el) {
   }
 };
 
+function renderOpenRouterModels(selectEl, models, currentModel) {
+  if (!selectEl) return;
+  const freeIds = ['openrouter/free', 'openrouter/owl-alpha'];
+  const free = [], paid = [];
+  for (const m of models) {
+    if (m.endsWith(':free') || freeIds.includes(m)) {
+      free.push(m);
+    } else {
+      paid.push(m);
+    }
+  }
+  free.sort((a, b) => a.localeCompare(b));
+  paid.sort((a, b) => a.localeCompare(b));
+
+  let html = '';
+  if (free.length > 0) {
+    html += '<optgroup label="Free">';
+    for (const m of free) html += `<option value="${m}">${m}</option>`;
+    html += '</optgroup>';
+  }
+  if (paid.length > 0) {
+    html += '<optgroup label="Paid">';
+    for (const m of paid) html += `<option value="${m}">${m}</option>`;
+    html += '</optgroup>';
+  }
+  selectEl.innerHTML = html || '<option value="">No models found</option>';
+
+  if (currentModel) {
+    selectEl.value = currentModel;
+    if (selectEl.selectedIndex === -1) {
+      const opt = document.createElement('option');
+      opt.value = currentModel;
+      opt.textContent = currentModel + ' (Not Found)';
+      selectEl.appendChild(opt);
+      selectEl.value = currentModel;
+    }
+  }
+}
+
 async function loadSettings() {
   try {
     const cfg = await BotService.GetConfig();
-    
-    // Fetch models and populate dropdown
-    const modelSelect = document.getElementById('cfg-model');
-    if (modelSelect) {
+    const provider = cfg.AI_PROVIDER || 'ollama';
+    const providerSelect = document.getElementById('cfg-provider');
+    if (providerSelect) providerSelect.value = provider;
+
+    const apiKeyInput = document.getElementById('cfg-api-key');
+    if (apiKeyInput) apiKeyInput.value = cfg.AI_API_KEY || '';
+
+    const apiUrlInput = document.getElementById('cfg-api-url');
+    if (apiUrlInput) apiUrlInput.value = cfg.AI_API_URL || 'https://openrouter.ai/api/v1';
+
+    toggleProviderFields(provider);
+
+    if (provider === 'openrouter') {
+      const modelSelect = document.getElementById('cfg-model-or');
       try {
         const models = await BotService.GetModels();
-        if (models && models.length > 0) {
-          modelSelect.innerHTML = models.map(m => `<option value="${m}">${m}</option>`).join('');
-        } else {
-          modelSelect.innerHTML = `<option value="${cfg.OLLAMA_MODEL}">${cfg.OLLAMA_MODEL}</option>`;
-        }
+        renderOpenRouterModels(modelSelect, models || [], cfg.AI_MODEL || 'qwen/qwen3-next-80b-a3b-instruct:free');
       } catch (err) {
-        console.warn("Could not fetch models:", err);
-        modelSelect.innerHTML = `<option value="${cfg.OLLAMA_MODEL}">${cfg.OLLAMA_MODEL} (Sunucu Hatası)</option>`;
+        console.warn("Could not fetch OpenRouter models:", err);
+        modelSelect.innerHTML = `<option value="${cfg.AI_MODEL || 'qwen/qwen3-next-80b-a3b-instruct:free'}">${cfg.AI_MODEL || 'qwen/qwen3-next-80b-a3b-instruct:free'} (Error)</option>`;
       }
-      modelSelect.value = cfg.OLLAMA_MODEL || 'gemma4:e4b';
-      // If the saved model isn't in the list (e.g., custom or deleted), add it on the fly
-      if (modelSelect.selectedIndex === -1 && cfg.OLLAMA_MODEL) {
-        const opt = document.createElement('option');
-        opt.value = cfg.OLLAMA_MODEL;
-        opt.text = cfg.OLLAMA_MODEL + " (Bulunamadı)";
-        modelSelect.appendChild(opt);
-        modelSelect.value = cfg.OLLAMA_MODEL;
+    } else {
+      const modelSelect = document.getElementById('cfg-model');
+      if (modelSelect) {
+        try {
+          const models = await BotService.GetModels();
+          if (models && models.length > 0) {
+            modelSelect.innerHTML = models.map(m => `<option value="${m}">${m}</option>`).join('');
+          } else {
+            modelSelect.innerHTML = `<option value="${cfg.OLLAMA_MODEL || 'gemma4:e4b'}">${cfg.OLLAMA_MODEL || 'gemma4:e4b'}</option>`;
+          }
+        } catch (err) {
+          console.warn("Could not fetch models:", err);
+          modelSelect.innerHTML = `<option value="${cfg.OLLAMA_MODEL || 'gemma4:e4b'}">${cfg.OLLAMA_MODEL || 'gemma4:e4b'} (Error)</option>`;
+        }
+        modelSelect.value = cfg.OLLAMA_MODEL || 'gemma4:e4b';
+        if (modelSelect.selectedIndex === -1 && cfg.OLLAMA_MODEL) {
+          const opt = document.createElement('option');
+          opt.value = cfg.OLLAMA_MODEL;
+          opt.text = cfg.OLLAMA_MODEL + " (Not Found)";
+          modelSelect.appendChild(opt);
+          modelSelect.value = cfg.OLLAMA_MODEL;
+        }
       }
     }
 
     document.getElementById('cfg-url').value = cfg.OLLAMA_URL || 'http://localhost:11434';
     
-    // Set language radio button
     const lang = cfg.LANGUAGE || 'en';
     const langInput = document.querySelector(`input[name="cfg-lang"][value="${lang}"]`);
     if (langInput) langInput.checked = true;
@@ -863,12 +922,62 @@ async function loadSettings() {
   }
 }
 
+function toggleProviderFields(provider) {
+  const openrouterIds = ['group-api-key', 'group-api-url', 'group-openrouter-model'];
+  const ollamaIds = ['group-ollama-model', 'group-ollama-url'];
+  openrouterIds.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = provider === 'openrouter' ? '' : 'none';
+  });
+  ollamaIds.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = provider === 'ollama' ? '' : 'none';
+  });
+}
+
+window.onProviderChange = async function () {
+  const provider = document.getElementById('cfg-provider').value;
+  toggleProviderFields(provider);
+  if (provider === 'ollama') {
+    const modelSelect = document.getElementById('cfg-model');
+    if (modelSelect) {
+      modelSelect.innerHTML = '<option value="">Loading...</option>';
+      try {
+        const models = await BotService.GetModels();
+        if (models && models.length > 0) {
+          modelSelect.innerHTML = models.map(m => `<option value="${m}">${m}</option>`).join('');
+        } else {
+          modelSelect.innerHTML = '<option value="gemma4:e4b">gemma4:e4b</option>';
+        }
+      } catch (err) {
+        modelSelect.innerHTML = '<option value="gemma4:e4b">gemma4:e4b (Error)</option>';
+      }
+    }
+  } else {
+    const modelSelect = document.getElementById('cfg-model-or');
+    if (modelSelect) {
+      modelSelect.innerHTML = '<option value="">Loading...</option>';
+      try {
+        const models = await BotService.GetModels();
+        renderOpenRouterModels(modelSelect, models || [], 'qwen/qwen3-next-80b-a3b-instruct:free');
+      } catch (err) {
+        modelSelect.innerHTML = '<option value="qwen/qwen3-next-80b-a3b-instruct:free">qwen/qwen3-next-80b-a3b-instruct:free (Error)</option>';
+      }
+    }
+  }
+}
+
 window.saveSettings = async function () {
   const btn = document.getElementById('btn-save-settings');
   btn.disabled = true;
 
+  const provider = document.getElementById('cfg-provider').value.trim();
   const cfg = {
-    OLLAMA_MODEL: document.getElementById('cfg-model').value.trim(),
+    AI_PROVIDER: provider,
+    AI_API_KEY: document.getElementById('cfg-api-key')?.value.trim() || '',
+    AI_API_URL: document.getElementById('cfg-api-url')?.value.trim() || '',
+    AI_MODEL: provider === 'openrouter' ? (document.getElementById('cfg-model-or')?.value.trim() || '') : '',
+    OLLAMA_MODEL: provider === 'ollama' ? document.getElementById('cfg-model').value.trim() : '',
     OLLAMA_URL: document.getElementById('cfg-url').value.trim(),
     DB_TYPE: 'sqlite',
     DB_URL: 'messages.db',
@@ -877,27 +986,22 @@ window.saveSettings = async function () {
 
   try {
     await BotService.SaveConfig(cfg);
-    // apply language instantly? Or wait for restart as per prompt. Let's do instant.
     setLang(cfg.LANGUAGE);
     renderUI(); 
 
-    // We must restore state because renderUI reset everything!
     document.getElementById('page-dashboard').classList.remove('active');
     document.getElementById('page-settings').classList.add('active');
     document.querySelector('[data-page="dashboard"]').classList.remove('active');
     document.querySelector('[data-page="settings"]').classList.add('active');
     
-    // 1. Restore stats / contacts
     updateStats(allContacts);
     
-    // 2. Restore bot running status & Model name
     const status = await BotService.GetStatus();
     if (status) Events.Emit('status_change', status);
 
     const quickSelect = document.getElementById('quick-model-select');
-    if (quickSelect) quickSelect.value = cfg.OLLAMA_MODEL;
+    if (quickSelect) quickSelect.value = cfg.AI_PROVIDER === 'openrouter' ? cfg.AI_MODEL : cfg.OLLAMA_MODEL;
     
-    // 3. Restore settings form view
     loadSettings();
 
     const saved = document.getElementById('settings-saved');
